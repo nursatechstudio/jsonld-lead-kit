@@ -1,0 +1,33 @@
+name: scrape-leads
+
+on:
+  push:
+    branches: [main]
+    paths: ['scraper.mjs', 'targets.json', '.github/**']
+  schedule:
+    - cron: '0 6 * * *'   # 06:00 UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Scrape leads from JSON-LD
+        run: node scraper.mjs --targets targets.json --out leads
+
+      - name: Commit results (if changed)
+        run: |
+          git config user.name "lead-kit[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add leads.json leads.md
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "leads update $(date -u +%F)"
+            git push
+          fi

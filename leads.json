@@ -1,0 +1,138 @@
+{
+  "generatedAt": "2026-10-03T09:13:26.849Z",
+  "count": 11,
+  "leads": [
+    {
+      "type": "JobPosting",
+      "name": "Senior Full Stack",
+      "url": "https://toggl.com/jobs/",
+      "description": "&lt;div class=&quot;_descriptionText_5yu8i_201 ashby-job-posting-description&quot;&gt; &lt;p&gt;We are looking for a Senior Full Stack Engineer to join one of our Product Tribes, the cross-functional units that own the end-to-end experience",
+      "location": "TELECOMMUTE",
+      "salary": "75000/year",
+      "posted": "2026-08-28",
+      "validThrough": "2026-10-27",
+      "organization": "Toggl",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Staff Software Engineer",
+      "url": "https://www.samsara.com/",
+      "description": "&lt;p&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Samsara (NYSE: IOT) sits at the center of hardware, software, AI, and the physical world. The platform processes 25+ trillion data points annually from IoT sensors, ca",
+      "location": "United States of America",
+      "salary": "100000/year",
+      "posted": "2026-08-17",
+      "validThrough": "2026-10-16",
+      "organization": "Samsara",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
+      "name": "AI agent engineer",
+      "url": "https://www.stickermule.com",
+      "description": "&lt;div class=&quot;_descriptionText_5yu8i_201 ashby-job-posting-description&quot;&gt; &lt;p&gt;Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.&lt;/p&g",
+      "location": "TELECOMMUTE",
+      "salary": "100000/year",
+      "posted": "2026-09-16",
+      "validThrough": "2026-10-16",
+      "organization": "Sticker Mule",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Senior Shopify Developer (Remote + Flexible)",
+      "url": "https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021",
+      "description": "&lt;h1&gt;Shopify developers love to freelance with Storetasker.&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Endless, quality clients: &lt;/strong&gt;from well known DTC brands to top agencies.&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Fu",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2024-05-13",
+      "validThrough": "2026-10-30",
+      "organization": "Storetasker",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Senior Independent AI Engineer / Architect",
+      "url": "http://a.team/ai-jobs?utm_source=wwr&amp;utm_medium=post&amp;utm_campaign=wwrai",
+      "description": "&lt;p&gt;&lt;strong&gt;Senior Independent AI Engineer / Architect&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Remote | Americas, Europe, or Israel&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Most AI engineers can find work.&lt;/p&gt; &lt;p&gt;Finding wor",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2024-06-16",
+      "validThrough": "2026-10-04",
+      "organization": "A.Team",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Senior Independent Software Developer ($90-$170/hr)",
+      "url": "https://build.a.team/wwrfastrackreferral",
+      "description": "&lt;div&gt;Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;At A·Team, we’ve turned this vision into reality for top-tier independent softwar",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2024-06-16",
+      "validThrough": "2026-10-04",
+      "organization": "A.Team",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Sr. UX Designer, Security",
+      "url": "https://cribl.io/",
+      "description": "&lt;div&gt; &lt;p&gt;Join the company that&amp;rsquo;s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world&amp;rsquo;s biggest enterprises, including half of the Fortune",
+      "location": "United States of America",
+      "salary": "100000/year",
+      "posted": "2026-09-30",
+      "validThrough": "2026-10-30",
+      "organization": "Cribl",
+      "source": "WeWorkRemotely · Design"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Senior Graphic Designer",
+      "url": "http://bbemarketing.com/",
+      "description": "&lt;p&gt;We&amp;rsquo;re looking for a creative, curious designer who can turn entertainment and sports industry data into compelling social content. You&amp;rsquo;ll come up with ideas, identify relevant news, create graphics, write captio",
+      "location": "TELECOMMUTE",
+      "salary": "25000/year",
+      "posted": "2026-09-28",
+      "validThrough": "2026-10-28",
+      "organization": "BBE Marketing Inc",
+      "source": "WeWorkRemotely · Design"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Staff Brand Designer",
+      "url": "https://webflow.com/",
+      "description": "&lt;p&gt;Webflow is the agentic web marketing platform for modern marketing teams, helping organizations build, manage, and optimize high-performing web experiences that drive predictable growth and strengthen brand trust. Building at Webfl",
+      "location": "United States of America",
+      "salary": "100000/year",
+      "posted": "2026-08-12",
+      "validThrough": "2026-10-11",
+      "organization": "Webflow",
+      "source": "WeWorkRemotely · Design"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Design Engineer",
+      "url": "https://weworkremotely.com",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;About Vercel:&lt;/h2&gt; &lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;Vercel is the agentic infrastructure company, freeing people and agents to ship what&#39;s next. For more than",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2026-10-01",
+      "validThrough": "2026-10-31",
+      "organization": "Vercel",
+      "source": "WeWorkRemotely · Design"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Senior UX Designer",
+      "url": "https://seatgeek.com/",
+      "description": "&lt;h3&gt;&lt;strong&gt;What you&amp;rsquo;ll do&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Deeply understand the needs, motivations, and behaviors of fans, sellers, teams, and artists&lt;/li&gt; &lt;li&gt;Set direction by creating clea",
+      "location": "United States of America",
+      "salary": "100000/year",
+      "posted": "2026-09-30",
+      "validThrough": "2026-10-30",
+      "organization": "Seat Geek",
+      "source": "WeWorkRemotely · Design"
+    }
+  ]
+}

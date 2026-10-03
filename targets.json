@@ -1,0 +1,23 @@
+[
+  {
+    "name": "WeWorkRemotely · Full-Stack",
+    "url": "https://weworkremotely.com/categories/remote-full-stack-programming-jobs",
+    "types": ["JobPosting"],
+    "linkPattern": "/remote-jobs/",
+    "follow": 8
+  },
+  {
+    "name": "WeWorkRemotely · Design",
+    "url": "https://weworkremotely.com/categories/remote-design-jobs",
+    "types": ["JobPosting"],
+    "linkPattern": "/remote-jobs/",
+    "follow": 8
+  },
+  {
+    "name": "WeWorkRemotely · DevOps",
+    "url": "https://weworkremotely.com/categories/remote-devops-sysadmin-jobs",
+    "types": ["JobPosting"],
+    "linkPattern": "/remote-jobs/",
+    "follow": 8
+  }
+]

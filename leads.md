@@ -1,0 +1,17 @@
+# Leads collected — 2026-10-03T09:13:26.849Z
+
+Total: **11** leads (from public JSON-LD).
+
+| Type | Name | Organization | Salary | Location | Posted | Source |
+|---|---|---|---|---|---|---|
+| JobPosting | Senior Full Stack | Toggl | 75000/year | TELECOMMUTE | 2026-08-28 | WeWorkRemotely · Full-Stack |
+| JobPosting | Staff Software Engineer | Samsara | 100000/year | United States of America | 2026-08-17 | WeWorkRemotely · Full-Stack |
+| JobPosting | AI agent engineer | Sticker Mule | 100000/year | TELECOMMUTE | 2026-09-16 | WeWorkRemotely · Full-Stack |
+| JobPosting | Senior Shopify Developer (Remote + Flexible) | Storetasker | 0/year | TELECOMMUTE | 2024-05-13 | WeWorkRemotely · Full-Stack |
+| JobPosting | Senior Independent AI Engineer / Architect | A.Team | 0/year | TELECOMMUTE | 2024-06-16 | WeWorkRemotely · Full-Stack |
+| JobPosting | Senior Independent Software Developer ($90-$170/hr) | A.Team | 0/year | TELECOMMUTE | 2024-06-16 | WeWorkRemotely · Full-Stack |
+| JobPosting | Sr. UX Designer, Security | Cribl | 100000/year | United States of America | 2026-09-30 | WeWorkRemotely · Design |
+| JobPosting | Senior Graphic Designer | BBE Marketing Inc | 25000/year | TELECOMMUTE | 2026-09-28 | WeWorkRemotely · Design |
+| JobPosting | Staff Brand Designer | Webflow | 100000/year | United States of America | 2026-08-12 | WeWorkRemotely · Design |
+| JobPosting | Design Engineer | Vercel | 0/year | TELECOMMUTE | 2026-10-01 | WeWorkRemotely · Design |
+| JobPosting | Senior UX Designer | Seat Geek | 100000/year | United States of America | 2026-09-30 | WeWorkRemotely · Design |
