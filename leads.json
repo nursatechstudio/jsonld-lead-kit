@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-03T09:13:26.849Z",
-  "count": 11,
+  "generatedAt": "2026-10-04T11:23:17.806Z",
+  "count": 10,
   "leads": [
     {
       "type": "JobPosting",
@@ -103,7 +103,7 @@
       "name": "Staff Brand Designer",
       "url": "https://webflow.com/",
       "description": "&lt;p&gt;Webflow is the agentic web marketing platform for modern marketing teams, helping organizations build, manage, and optimize high-performing web experiences that drive predictable growth and strengthen brand trust. Building at Webfl",
-      "location": "United States of America",
+      "location": "Canada",
       "salary": "100000/year",
       "posted": "2026-08-12",
       "validThrough": "2026-10-11",
@@ -112,26 +112,14 @@
     },
     {
       "type": "JobPosting",
-      "name": "Design Engineer",
+      "name": "Senior Research Engineer",
       "url": "https://weworkremotely.com",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;About Vercel:&lt;/h2&gt; &lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;Vercel is the agentic infrastructure company, freeing people and agents to ship what&#39;s next. For more than",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;Why AssemblyAI&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;AssemblyAI builds the best-in-class Voice AI models powering the next generation of voice applications. Our models serve 60",
       "location": "TELECOMMUTE",
       "salary": "0/year",
-      "posted": "2026-10-01",
-      "validThrough": "2026-10-31",
-      "organization": "Vercel",
-      "source": "WeWorkRemotely · Design"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Senior UX Designer",
-      "url": "https://seatgeek.com/",
-      "description": "&lt;h3&gt;&lt;strong&gt;What you&amp;rsquo;ll do&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Deeply understand the needs, motivations, and behaviors of fans, sellers, teams, and artists&lt;/li&gt; &lt;li&gt;Set direction by creating clea",
-      "location": "United States of America",
-      "salary": "100000/year",
-      "posted": "2026-09-30",
-      "validThrough": "2026-10-30",
-      "organization": "Seat Geek",
+      "posted": "2026-10-04",
+      "validThrough": "2026-11-03",
+      "organization": "AssemblyAI",
       "source": "WeWorkRemotely · Design"
     }
   ]
