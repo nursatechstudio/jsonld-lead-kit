@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T11:23:17.806Z",
+  "generatedAt": "2026-10-05T06:23:47.860Z",
   "count": 10,
   "leads": [
     {
@@ -40,25 +40,13 @@
     },
     {
       "type": "JobPosting",
-      "name": "Senior Shopify Developer (Remote + Flexible)",
-      "url": "https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021",
-      "description": "&lt;h1&gt;Shopify developers love to freelance with Storetasker.&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Endless, quality clients: &lt;/strong&gt;from well known DTC brands to top agencies.&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Fu",
-      "location": "TELECOMMUTE",
-      "salary": "0/year",
-      "posted": "2024-05-13",
-      "validThrough": "2026-10-30",
-      "organization": "Storetasker",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
       "name": "Senior Independent AI Engineer / Architect",
       "url": "http://a.team/ai-jobs?utm_source=wwr&amp;utm_medium=post&amp;utm_campaign=wwrai",
       "description": "&lt;p&gt;&lt;strong&gt;Senior Independent AI Engineer / Architect&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Remote | Americas, Europe, or Israel&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Most AI engineers can find work.&lt;/p&gt; &lt;p&gt;Finding wor",
       "location": "TELECOMMUTE",
       "salary": "0/year",
       "posted": "2024-06-16",
-      "validThrough": "2026-10-04",
+      "validThrough": "2026-11-03",
       "organization": "A.Team",
       "source": "WeWorkRemotely · Full-Stack"
     },
@@ -70,8 +58,20 @@
       "location": "TELECOMMUTE",
       "salary": "0/year",
       "posted": "2024-06-16",
-      "validThrough": "2026-10-04",
+      "validThrough": "2026-11-03",
       "organization": "A.Team",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Senior Shopify Developer (Remote + Flexible)",
+      "url": "https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021",
+      "description": "&lt;h1&gt;Shopify developers love to freelance with Storetasker.&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Endless, quality clients: &lt;/strong&gt;from well known DTC brands to top agencies.&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Fu",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2024-05-13",
+      "validThrough": "2026-10-30",
+      "organization": "Storetasker",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
