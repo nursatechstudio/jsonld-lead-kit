@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-05T06:23:47.860Z",
-  "count": 10,
+  "generatedAt": "2026-10-06T06:19:17.981Z",
+  "count": 9,
   "leads": [
     {
       "type": "JobPosting",
@@ -84,18 +84,6 @@
       "posted": "2026-09-30",
       "validThrough": "2026-10-30",
       "organization": "Cribl",
-      "source": "WeWorkRemotely · Design"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Senior Graphic Designer",
-      "url": "http://bbemarketing.com/",
-      "description": "&lt;p&gt;We&amp;rsquo;re looking for a creative, curious designer who can turn entertainment and sports industry data into compelling social content. You&amp;rsquo;ll come up with ideas, identify relevant news, create graphics, write captio",
-      "location": "TELECOMMUTE",
-      "salary": "25000/year",
-      "posted": "2026-09-28",
-      "validThrough": "2026-10-28",
-      "organization": "BBE Marketing Inc",
       "source": "WeWorkRemotely · Design"
     },
     {
