@@ -1,7 +1,19 @@
 {
-  "generatedAt": "2026-10-06T06:19:17.981Z",
-  "count": 9,
+  "generatedAt": "2026-10-07T06:18:24.944Z",
+  "count": 10,
   "leads": [
+    {
+      "type": "JobPosting",
+      "name": "Senior Angular Full-stack Developer",
+      "url": "https://lemon.io",
+      "description": "&lt;p&gt;Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than &lt;a href=&quot;https://lemon.io/for-developers/?utm_source=weworkremotely&amp;amp;utm_m",
+      "location": "Papua New Guinea",
+      "salary": "0/year",
+      "posted": "2026-10-06",
+      "validThrough": "2026-11-05",
+      "organization": "Lemon.io",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
     {
       "type": "JobPosting",
       "name": "Senior Full Stack",
@@ -64,15 +76,15 @@
     },
     {
       "type": "JobPosting",
-      "name": "Senior Shopify Developer (Remote + Flexible)",
-      "url": "https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021",
-      "description": "&lt;h1&gt;Shopify developers love to freelance with Storetasker.&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Endless, quality clients: &lt;/strong&gt;from well known DTC brands to top agencies.&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Fu",
+      "name": "Senior 3D Designer",
+      "url": "http://bit.ly/3kLhMdk",
+      "description": "&lt;h2 data-level=&quot;2&quot;&gt;&lt;strong&gt;About Contra Labs&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Contra Labs sits at the intersection of human creativity and AI. We partner with leading AI labs and product companies to improve their to",
       "location": "TELECOMMUTE",
       "salary": "0/year",
-      "posted": "2024-05-13",
-      "validThrough": "2026-10-30",
-      "organization": "Storetasker",
-      "source": "WeWorkRemotely · Full-Stack"
+      "posted": "2026-10-07",
+      "validThrough": "2026-11-06",
+      "organization": "Contra",
+      "source": "WeWorkRemotely · Design"
     },
     {
       "type": "JobPosting",
