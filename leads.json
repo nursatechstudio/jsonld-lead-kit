@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T06:18:24.944Z",
+  "generatedAt": "2026-10-08T06:21:12.666Z",
   "count": 10,
   "leads": [
     {
@@ -7,7 +7,7 @@
       "name": "Senior Angular Full-stack Developer",
       "url": "https://lemon.io",
       "description": "&lt;p&gt;Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than &lt;a href=&quot;https://lemon.io/for-developers/?utm_source=weworkremotely&amp;amp;utm_m",
-      "location": "Papua New Guinea",
+      "location": "Costa Rica",
       "salary": "0/year",
       "posted": "2026-10-06",
       "validThrough": "2026-11-05",
@@ -103,7 +103,7 @@
       "name": "Staff Brand Designer",
       "url": "https://webflow.com/",
       "description": "&lt;p&gt;Webflow is the agentic web marketing platform for modern marketing teams, helping organizations build, manage, and optimize high-performing web experiences that drive predictable growth and strengthen brand trust. Building at Webfl",
-      "location": "Canada",
+      "location": "United States of America",
       "salary": "100000/year",
       "posted": "2026-08-12",
       "validThrough": "2026-10-11",
@@ -112,14 +112,14 @@
     },
     {
       "type": "JobPosting",
-      "name": "Senior Research Engineer",
+      "name": "Designer, Creative Services",
       "url": "https://weworkremotely.com",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;Why AssemblyAI&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;AssemblyAI builds the best-in-class Voice AI models powering the next generation of voice applications. Our models serve 60",
+      "description": "&lt;h2&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;We&#39;re seeking a Designer to join Abnormal AI&#39;s Creative Services team. As a member of the in-house studio, you&#39;ll play a key role in bringing our visual i",
       "location": "TELECOMMUTE",
       "salary": "0/year",
-      "posted": "2026-10-04",
-      "validThrough": "2026-11-03",
-      "organization": "AssemblyAI",
+      "posted": "2026-10-07",
+      "validThrough": "2026-11-06",
+      "organization": "Abnormal",
       "source": "WeWorkRemotely · Design"
     }
   ]
