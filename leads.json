@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-08T06:21:12.666Z",
+  "generatedAt": "2026-10-09T06:20:22.045Z",
   "count": 10,
   "leads": [
     {
       "type": "JobPosting",
-      "name": "Senior Angular Full-stack Developer",
+      "name": "Senior .NET Full-stack Developer",
       "url": "https://lemon.io",
       "description": "&lt;p&gt;Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than &lt;a href=&quot;https://lemon.io/for-developers/?utm_source=weworkremotely&amp;amp;utm_m",
-      "location": "Costa Rica",
+      "location": "Thailand",
       "salary": "0/year",
-      "posted": "2026-10-06",
-      "validThrough": "2026-11-05",
+      "posted": "2026-10-08",
+      "validThrough": "2026-11-07",
       "organization": "Lemon.io",
       "source": "WeWorkRemotely · Full-Stack"
     },
@@ -64,18 +64,6 @@
     },
     {
       "type": "JobPosting",
-      "name": "Senior Independent Software Developer ($90-$170/hr)",
-      "url": "https://build.a.team/wwrfastrackreferral",
-      "description": "&lt;div&gt;Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;At A·Team, we’ve turned this vision into reality for top-tier independent softwar",
-      "location": "TELECOMMUTE",
-      "salary": "0/year",
-      "posted": "2024-06-16",
-      "validThrough": "2026-11-03",
-      "organization": "A.Team",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
       "name": "Senior 3D Designer",
       "url": "http://bit.ly/3kLhMdk",
       "description": "&lt;h2 data-level=&quot;2&quot;&gt;&lt;strong&gt;About Contra Labs&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Contra Labs sits at the intersection of human creativity and AI. We partner with leading AI labs and product companies to improve their to",
@@ -112,15 +100,27 @@
     },
     {
       "type": "JobPosting",
-      "name": "Designer, Creative Services",
+      "name": "Site Engineer",
       "url": "https://weworkremotely.com",
-      "description": "&lt;h2&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;We&#39;re seeking a Designer to join Abnormal AI&#39;s Creative Services team. As a member of the in-house studio, you&#39;ll play a key role in bringing our visual i",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;About Vercel:&lt;/h2&gt; &lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;Vercel is the agentic infrastructure company, freeing people and agents to ship what&#39;s next. For more than",
       "location": "TELECOMMUTE",
       "salary": "0/year",
-      "posted": "2026-10-07",
-      "validThrough": "2026-11-06",
-      "organization": "Abnormal",
+      "posted": "2026-10-08",
+      "validThrough": "2026-11-07",
+      "organization": "Vercel",
       "source": "WeWorkRemotely · Design"
+    },
+    {
+      "type": "JobPosting",
+      "name": "IT Infrastructure Engineer ",
+      "url": "http://bluegeko.com",
+      "description": "&lt;h1 data-pm-slice=&quot;1 1 []&quot;&gt;IT Infrastructure Engineer (Full-Time / Remote)&lt;/h1&gt; &lt;p&gt;We are looking for an experienced &lt;strong&gt;IT Infrastructure Engineer&lt;/strong&gt; to manage, maintain, and improve our co",
+      "location": "TELECOMMUTE",
+      "salary": "100000/year",
+      "posted": "2026-10-08",
+      "validThrough": "2026-11-07",
+      "organization": "BlueGeko",
+      "source": "WeWorkRemotely · DevOps"
     }
   ]
 }
