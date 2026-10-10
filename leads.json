@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-09T06:20:22.045Z",
-  "count": 10,
+  "generatedAt": "2026-10-10T06:18:25.686Z",
+  "count": 9,
   "leads": [
     {
       "type": "JobPosting",
-      "name": "Senior .NET Full-stack Developer",
+      "name": "Senior React Full-stack Developer",
       "url": "https://lemon.io",
       "description": "&lt;p&gt;Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than &lt;a href=&quot;https://lemon.io/for-developers/?utm_source=weworkremotely&amp;amp;utm_m",
-      "location": "Thailand",
+      "location": "New Zealand",
       "salary": "0/year",
-      "posted": "2026-10-08",
-      "validThrough": "2026-11-07",
+      "posted": "2026-10-09",
+      "validThrough": "2026-11-08",
       "organization": "Lemon.io",
       "source": "WeWorkRemotely · Full-Stack"
     },
@@ -52,18 +52,6 @@
     },
     {
       "type": "JobPosting",
-      "name": "Senior Independent AI Engineer / Architect",
-      "url": "http://a.team/ai-jobs?utm_source=wwr&amp;utm_medium=post&amp;utm_campaign=wwrai",
-      "description": "&lt;p&gt;&lt;strong&gt;Senior Independent AI Engineer / Architect&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Remote | Americas, Europe, or Israel&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Most AI engineers can find work.&lt;/p&gt; &lt;p&gt;Finding wor",
-      "location": "TELECOMMUTE",
-      "salary": "0/year",
-      "posted": "2024-06-16",
-      "validThrough": "2026-11-03",
-      "organization": "A.Team",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
       "name": "Senior 3D Designer",
       "url": "http://bit.ly/3kLhMdk",
       "description": "&lt;h2 data-level=&quot;2&quot;&gt;&lt;strong&gt;About Contra Labs&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Contra Labs sits at the intersection of human creativity and AI. We partner with leading AI labs and product companies to improve their to",
@@ -91,7 +79,7 @@
       "name": "Staff Brand Designer",
       "url": "https://webflow.com/",
       "description": "&lt;p&gt;Webflow is the agentic web marketing platform for modern marketing teams, helping organizations build, manage, and optimize high-performing web experiences that drive predictable growth and strengthen brand trust. Building at Webfl",
-      "location": "United States of America",
+      "location": "Canada",
       "salary": "100000/year",
       "posted": "2026-08-12",
       "validThrough": "2026-10-11",
@@ -100,14 +88,14 @@
     },
     {
       "type": "JobPosting",
-      "name": "Site Engineer",
+      "name": "Analyst",
       "url": "https://weworkremotely.com",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;About Vercel:&lt;/h2&gt; &lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;Vercel is the agentic infrastructure company, freeing people and agents to ship what&#39;s next. For more than",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.&lt;/p&gt;",
       "location": "TELECOMMUTE",
       "salary": "0/year",
-      "posted": "2026-10-08",
-      "validThrough": "2026-11-07",
-      "organization": "Vercel",
+      "posted": "2026-10-09",
+      "validThrough": "2026-11-08",
+      "organization": "Affirm",
       "source": "WeWorkRemotely · Design"
     },
     {
