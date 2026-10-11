@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T06:18:25.686Z",
+  "generatedAt": "2026-10-11T06:18:47.437Z",
   "count": 9,
   "leads": [
     {
@@ -7,7 +7,7 @@
       "name": "Senior React Full-stack Developer",
       "url": "https://lemon.io",
       "description": "&lt;p&gt;Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than &lt;a href=&quot;https://lemon.io/for-developers/?utm_source=weworkremotely&amp;amp;utm_m",
-      "location": "New Zealand",
+      "location": "Paraguay",
       "salary": "0/year",
       "posted": "2026-10-09",
       "validThrough": "2026-11-08",
@@ -88,14 +88,14 @@
     },
     {
       "type": "JobPosting",
-      "name": "Analyst",
+      "name": "Machine Learning Engineer - IV (Fraud)",
       "url": "https://weworkremotely.com",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.&lt;/p&gt;",
+      "description": "&lt;p&gt;&lt;strong&gt;Role Purpose:&lt;/strong&gt; The Machine Learning Engineer IV will play a critical role in advancing Jumio&#39;s Fraud team&#39;s mission to develop and enhance state-of-the-art solutions for fraud detection for ID ve",
       "location": "TELECOMMUTE",
       "salary": "0/year",
-      "posted": "2026-10-09",
-      "validThrough": "2026-11-08",
-      "organization": "Affirm",
+      "posted": "2026-10-10",
+      "validThrough": "2026-11-09",
+      "organization": "Jumio",
       "source": "WeWorkRemotely · Design"
     },
     {
