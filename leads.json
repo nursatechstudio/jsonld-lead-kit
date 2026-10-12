@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-11T06:18:47.437Z",
-  "count": 9,
+  "generatedAt": "2026-10-12T06:23:46.326Z",
+  "count": 8,
   "leads": [
     {
       "type": "JobPosting",
       "name": "Senior React Full-stack Developer",
       "url": "https://lemon.io",
       "description": "&lt;p&gt;Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than &lt;a href=&quot;https://lemon.io/for-developers/?utm_source=weworkremotely&amp;amp;utm_m",
-      "location": "Paraguay",
+      "location": "Slovakia",
       "salary": "0/year",
       "posted": "2026-10-09",
       "validThrough": "2026-11-08",
@@ -72,18 +72,6 @@
       "posted": "2026-09-30",
       "validThrough": "2026-10-30",
       "organization": "Cribl",
-      "source": "WeWorkRemotely · Design"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Staff Brand Designer",
-      "url": "https://webflow.com/",
-      "description": "&lt;p&gt;Webflow is the agentic web marketing platform for modern marketing teams, helping organizations build, manage, and optimize high-performing web experiences that drive predictable growth and strengthen brand trust. Building at Webfl",
-      "location": "Canada",
-      "salary": "100000/year",
-      "posted": "2026-08-12",
-      "validThrough": "2026-10-11",
-      "organization": "Webflow",
       "source": "WeWorkRemotely · Design"
     },
     {
