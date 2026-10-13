@@ -1,53 +1,29 @@
 {
-  "generatedAt": "2026-10-12T06:23:46.326Z",
-  "count": 8,
+  "generatedAt": "2026-10-13T06:22:36.709Z",
+  "count": 4,
   "leads": [
+    {
+      "type": "JobPosting",
+      "name": "Applied AI Engineers for telecommunications company",
+      "url": "https://weworkremotely.com",
+      "description": "&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Senior AI Professional will help design, develop, and optimize production-grade agentic AI solutions. This role complements an existing platform engineering team and focuse",
+      "location": "Remote",
+      "salary": "0/year",
+      "posted": "2026-10-12",
+      "validThrough": "2026-11-11",
+      "organization": "Toptal",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
     {
       "type": "JobPosting",
       "name": "Senior React Full-stack Developer",
       "url": "https://lemon.io",
       "description": "&lt;p&gt;Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than &lt;a href=&quot;https://lemon.io/for-developers/?utm_source=weworkremotely&amp;amp;utm_m",
-      "location": "Slovakia",
+      "location": "Japan",
       "salary": "0/year",
       "posted": "2026-10-09",
       "validThrough": "2026-11-08",
       "organization": "Lemon.io",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Senior Full Stack",
-      "url": "https://toggl.com/jobs/",
-      "description": "&lt;div class=&quot;_descriptionText_5yu8i_201 ashby-job-posting-description&quot;&gt; &lt;p&gt;We are looking for a Senior Full Stack Engineer to join one of our Product Tribes, the cross-functional units that own the end-to-end experience",
-      "location": "TELECOMMUTE",
-      "salary": "75000/year",
-      "posted": "2026-08-28",
-      "validThrough": "2026-10-27",
-      "organization": "Toggl",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Staff Software Engineer",
-      "url": "https://www.samsara.com/",
-      "description": "&lt;p&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Samsara (NYSE: IOT) sits at the center of hardware, software, AI, and the physical world. The platform processes 25+ trillion data points annually from IoT sensors, ca",
-      "location": "United States of America",
-      "salary": "100000/year",
-      "posted": "2026-08-17",
-      "validThrough": "2026-10-16",
-      "organization": "Samsara",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "AI agent engineer",
-      "url": "https://www.stickermule.com",
-      "description": "&lt;div class=&quot;_descriptionText_5yu8i_201 ashby-job-posting-description&quot;&gt; &lt;p&gt;Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.&lt;/p&g",
-      "location": "TELECOMMUTE",
-      "salary": "100000/year",
-      "posted": "2026-09-16",
-      "validThrough": "2026-10-16",
-      "organization": "Sticker Mule",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
@@ -73,30 +49,6 @@
       "validThrough": "2026-10-30",
       "organization": "Cribl",
       "source": "WeWorkRemotely · Design"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Machine Learning Engineer - IV (Fraud)",
-      "url": "https://weworkremotely.com",
-      "description": "&lt;p&gt;&lt;strong&gt;Role Purpose:&lt;/strong&gt; The Machine Learning Engineer IV will play a critical role in advancing Jumio&#39;s Fraud team&#39;s mission to develop and enhance state-of-the-art solutions for fraud detection for ID ve",
-      "location": "TELECOMMUTE",
-      "salary": "0/year",
-      "posted": "2026-10-10",
-      "validThrough": "2026-11-09",
-      "organization": "Jumio",
-      "source": "WeWorkRemotely · Design"
-    },
-    {
-      "type": "JobPosting",
-      "name": "IT Infrastructure Engineer ",
-      "url": "http://bluegeko.com",
-      "description": "&lt;h1 data-pm-slice=&quot;1 1 []&quot;&gt;IT Infrastructure Engineer (Full-Time / Remote)&lt;/h1&gt; &lt;p&gt;We are looking for an experienced &lt;strong&gt;IT Infrastructure Engineer&lt;/strong&gt; to manage, maintain, and improve our co",
-      "location": "TELECOMMUTE",
-      "salary": "100000/year",
-      "posted": "2026-10-08",
-      "validThrough": "2026-11-07",
-      "organization": "BlueGeko",
-      "source": "WeWorkRemotely · DevOps"
     }
   ]
 }

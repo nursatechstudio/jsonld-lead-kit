@@ -1,14 +1,10 @@
-# Leads collected — 2026-10-12T06:23:46.326Z
+# Leads collected — 2026-10-13T06:22:36.709Z
 
-Total: **8** leads (from public JSON-LD).
+Total: **4** leads (from public JSON-LD).
 
 | Type | Name | Organization | Salary | Location | Posted | Source |
 |---|---|---|---|---|---|---|
-| JobPosting | Senior React Full-stack Developer | Lemon.io | 0/year | Slovakia | 2026-10-09 | WeWorkRemotely · Full-Stack |
-| JobPosting | Senior Full Stack | Toggl | 75000/year | TELECOMMUTE | 2026-08-28 | WeWorkRemotely · Full-Stack |
-| JobPosting | Staff Software Engineer | Samsara | 100000/year | United States of America | 2026-08-17 | WeWorkRemotely · Full-Stack |
-| JobPosting | AI agent engineer | Sticker Mule | 100000/year | TELECOMMUTE | 2026-09-16 | WeWorkRemotely · Full-Stack |
+| JobPosting | Applied AI Engineers for telecommunications company | Toptal | 0/year | Remote | 2026-10-12 | WeWorkRemotely · Full-Stack |
+| JobPosting | Senior React Full-stack Developer | Lemon.io | 0/year | Japan | 2026-10-09 | WeWorkRemotely · Full-Stack |
 | JobPosting | Senior 3D Designer | Contra | 0/year | TELECOMMUTE | 2026-10-07 | WeWorkRemotely · Design |
 | JobPosting | Sr. UX Designer, Security | Cribl | 100000/year | United States of America | 2026-09-30 | WeWorkRemotely · Design |
-| JobPosting | Machine Learning Engineer - IV (Fraud) | Jumio | 0/year | TELECOMMUTE | 2026-10-10 | WeWorkRemotely · Design |
-| JobPosting | IT Infrastructure Engineer  | BlueGeko | 100000/year | TELECOMMUTE | 2026-10-08 | WeWorkRemotely · DevOps |
