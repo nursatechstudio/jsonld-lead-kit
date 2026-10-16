@@ -1,7 +1,19 @@
 {
-  "generatedAt": "2026-10-15T06:32:43.626Z",
-  "count": 4,
+  "generatedAt": "2026-10-16T06:30:55.333Z",
+  "count": 5,
   "leads": [
+    {
+      "type": "JobPosting",
+      "name": "Engineering Manager",
+      "url": "http://www.medify.co.uk",
+      "description": "&lt;p&gt;Remote | Full-Time | UK&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/p&gt; &lt;p&gt;About Us&lt;/p&gt; &lt;p&gt;At Medify, we&amp;rsquo;re on a mission to widen access to medicine and healthcare careers through world-class digital learning ex",
+      "location": "United Kingdom of Great Britain and Northern Ireland",
+      "salary": "100000/year",
+      "posted": "2026-10-15",
+      "validThrough": "2026-11-14",
+      "organization": "Medify",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
     {
       "type": "JobPosting",
       "name": "Applied AI Engineers for telecommunications company",
@@ -19,7 +31,7 @@
       "name": "Senior React Full-stack Developer",
       "url": "https://lemon.io",
       "description": "&lt;p&gt;Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than &lt;a href=&quot;https://lemon.io/for-developers/?utm_source=weworkremotely&amp;amp;utm_m",
-      "location": "Romania",
+      "location": "Israel",
       "salary": "0/year",
       "posted": "2026-10-09",
       "validThrough": "2026-11-08",
