@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-16T06:30:55.333Z",
-  "count": 5,
+  "generatedAt": "2026-10-17T06:27:23.557Z",
+  "count": 7,
   "leads": [
+    {
+      "type": "JobPosting",
+      "name": "Head of Technology",
+      "url": "https://sanctuary.computer",
+      "description": "&lt;p&gt;We are hiring a &lt;strong&gt;Head of Technology&lt;/strong&gt; for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;h",
+      "location": "TELECOMMUTE",
+      "salary": "100000/year",
+      "posted": "2026-10-16",
+      "validThrough": "2026-11-15",
+      "organization": "Sanctuary Computer",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Staff Software Engineer",
+      "url": "https://www.samsara.com/",
+      "description": "&lt;p&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Samsara (NYSE: IOT) sits at the center of hardware, software, AI, and the physical world. The platform processes 25+ trillion data points annually from IoT sensors, ca",
+      "location": "United States of America",
+      "salary": "100000/year",
+      "posted": "2026-08-17",
+      "validThrough": "2026-11-15",
+      "organization": "Samsara",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
+      "name": "SI agent engineer",
+      "url": "https://www.stickermule.com",
+      "description": "&lt;p&gt;Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and super intelligence in one stack.&lt;/p&gt; &lt;div&gt;&amp;nbsp;&lt;/div&gt; &lt;p&gt;We&#39;re hiring an engin",
+      "location": "TELECOMMUTE",
+      "salary": "100000/year",
+      "posted": "2026-09-16",
+      "validThrough": "2026-11-15",
+      "organization": "Sticker Mule",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
     {
       "type": "JobPosting",
       "name": "Engineering Manager",
@@ -24,18 +60,6 @@
       "posted": "2026-10-12",
       "validThrough": "2026-11-11",
       "organization": "Toptal",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Senior React Full-stack Developer",
-      "url": "https://lemon.io",
-      "description": "&lt;p&gt;Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than &lt;a href=&quot;https://lemon.io/for-developers/?utm_source=weworkremotely&amp;amp;utm_m",
-      "location": "Israel",
-      "salary": "0/year",
-      "posted": "2026-10-09",
-      "validThrough": "2026-11-08",
-      "organization": "Lemon.io",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
