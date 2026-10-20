@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-19T06:37:04.229Z",
-  "count": 7,
+  "generatedAt": "2026-10-20T06:31:39.483Z",
+  "count": 8,
   "leads": [
+    {
+      "type": "JobPosting",
+      "name": "Senior Data Engineer",
+      "url": "https://growthminded.co",
+      "description": "&lt;div class=&quot;space-y-12&quot;&gt; &lt;section&gt; &lt;h2 class=&quot;text-3xl font-medium&quot;&gt;About the role&lt;/h2&gt; &lt;p class=&quot;mt-5 whitespace-pre-line text-lg leading-relaxed text-[#526760]&quot;&gt;You&#39;ll own th",
+      "location": "TELECOMMUTE",
+      "salary": "50000/year",
+      "posted": "2026-10-19",
+      "validThrough": "2026-11-18",
+      "organization": "Growth Minded",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
+      "name": "SAP Berater FI/CO (M/W/D)",
+      "url": "https://weworkremotely.com",
+      "description": "&lt;p&gt;Werde zum Architekten digitaler Finanzwelten – und gestalte mit uns die Zukunft! Zahlen sind Deine Leidenschaft, die Financial Supply Chain und SAP FI/CO Dein Spielfeld? Perfekt! Denn als Consultant wirst Du:&lt;/p&gt; &lt;h2&gt;Au",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2026-10-19",
+      "validThrough": "2026-11-18",
+      "organization": "BDF EXPERTS",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Senior Fullstack Developer (React.js / Node.js)",
+      "url": "http://career.proxify.io",
+      "description": "&lt;h3 dir=&quot;ltr&quot;&gt;&lt;strong&gt;The Role:&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;We are looking for a Senior Fullstack Developer skilled in React.js and ",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2026-10-19",
+      "validThrough": "2026-11-18",
+      "organization": "Proxify AB",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
     {
       "type": "JobPosting",
       "name": "Head of Technology",
@@ -36,30 +72,6 @@
       "posted": "2026-09-16",
       "validThrough": "2026-11-15",
       "organization": "Sticker Mule",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Engineering Manager",
-      "url": "http://www.medify.co.uk",
-      "description": "&lt;p&gt;Remote | Full-Time | UK&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/p&gt; &lt;p&gt;About Us&lt;/p&gt; &lt;p&gt;At Medify, we&amp;rsquo;re on a mission to widen access to medicine and healthcare careers through world-class digital learning ex",
-      "location": "United Kingdom of Great Britain and Northern Ireland",
-      "salary": "100000/year",
-      "posted": "2026-10-15",
-      "validThrough": "2026-11-14",
-      "organization": "Medify",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Applied AI Engineers for telecommunications company",
-      "url": "https://weworkremotely.com",
-      "description": "&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Senior AI Professional will help design, develop, and optimize production-grade agentic AI solutions. This role complements an existing platform engineering team and focuse",
-      "location": "Remote",
-      "salary": "0/year",
-      "posted": "2026-10-12",
-      "validThrough": "2026-11-11",
-      "organization": "Toptal",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
