@@ -1,7 +1,19 @@
 {
-  "generatedAt": "2026-10-20T06:31:39.483Z",
-  "count": 8,
+  "generatedAt": "2026-10-21T06:33:00.875Z",
+  "count": 7,
   "leads": [
+    {
+      "type": "JobPosting",
+      "name": "Senior Analytics Engineer / BI Lead — Channel Insights (iX360)",
+      "url": "https://weworkremotely.com",
+      "description": "&lt;p&gt;Summary&lt;/p&gt;&lt;p&gt;We are seeking an Analytics Engineer / BI Lead for Channel Insights to define the semantic layer, build dashboards, and present verified insights to leadership. This role combines Tableau Next and Data 360",
+      "location": "Remote",
+      "salary": "0/year",
+      "posted": "2026-10-20",
+      "validThrough": "2026-11-19",
+      "organization": "Toptal",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
     {
       "type": "JobPosting",
       "name": "Senior Data Engineer",
@@ -12,18 +24,6 @@
       "posted": "2026-10-19",
       "validThrough": "2026-11-18",
       "organization": "Growth Minded",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "SAP Berater FI/CO (M/W/D)",
-      "url": "https://weworkremotely.com",
-      "description": "&lt;p&gt;Werde zum Architekten digitaler Finanzwelten – und gestalte mit uns die Zukunft! Zahlen sind Deine Leidenschaft, die Financial Supply Chain und SAP FI/CO Dein Spielfeld? Perfekt! Denn als Consultant wirst Du:&lt;/p&gt; &lt;h2&gt;Au",
-      "location": "TELECOMMUTE",
-      "salary": "0/year",
-      "posted": "2026-10-19",
-      "validThrough": "2026-11-18",
-      "organization": "BDF EXPERTS",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
@@ -52,27 +52,15 @@
     },
     {
       "type": "JobPosting",
-      "name": "Staff Software Engineer",
-      "url": "https://www.samsara.com/",
-      "description": "&lt;p&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Samsara (NYSE: IOT) sits at the center of hardware, software, AI, and the physical world. The platform processes 25+ trillion data points annually from IoT sensors, ca",
+      "name": "Principal Experience Designer - Visual Design &amp; Design Systems",
+      "url": "https://www.workiva.com/latam/",
+      "description": "&lt;p&gt;Workiva is looking for a Principal Experience Designer to shape the visual future of Unify, our enterprise design system. Unify powers the components, patterns, templates, accessibility standards, and shared experiences used across",
       "location": "United States of America",
       "salary": "100000/year",
-      "posted": "2026-08-17",
-      "validThrough": "2026-11-15",
-      "organization": "Samsara",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "SI agent engineer",
-      "url": "https://www.stickermule.com",
-      "description": "&lt;p&gt;Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and super intelligence in one stack.&lt;/p&gt; &lt;div&gt;&amp;nbsp;&lt;/div&gt; &lt;p&gt;We&#39;re hiring an engin",
-      "location": "TELECOMMUTE",
-      "salary": "100000/year",
-      "posted": "2026-09-16",
-      "validThrough": "2026-11-15",
-      "organization": "Sticker Mule",
-      "source": "WeWorkRemotely · Full-Stack"
+      "posted": "2026-10-20",
+      "validThrough": "2026-11-19",
+      "organization": "Workiva",
+      "source": "WeWorkRemotely · Design"
     },
     {
       "type": "JobPosting",
