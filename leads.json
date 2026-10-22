@@ -1,7 +1,19 @@
 {
-  "generatedAt": "2026-10-21T06:33:00.875Z",
-  "count": 7,
+  "generatedAt": "2026-10-22T06:33:20.453Z",
+  "count": 8,
   "leads": [
+    {
+      "type": "JobPosting",
+      "name": "Senior Vue Developer",
+      "url": "https://lemon.io",
+      "description": "&lt;p&gt;&lt;a href=&quot;https://lemon.io/for-developers/?utm_source=weworkremotely&amp;amp;utm_medium=job_ad&amp;amp;utm_campaign=supply_en_vue_nuxt/node/php/net/python_oct_2026_job_ad&quot;&gt;Lemon.io&lt;/a&gt; helps companies in the US",
+      "location": "Ukraine",
+      "salary": "0/year",
+      "posted": "2026-10-21",
+      "validThrough": "2026-11-20",
+      "organization": "Lemon.io",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
     {
       "type": "JobPosting",
       "name": "Senior Analytics Engineer / BI Lead — Channel Insights (iX360)",
@@ -40,18 +52,6 @@
     },
     {
       "type": "JobPosting",
-      "name": "Head of Technology",
-      "url": "https://sanctuary.computer",
-      "description": "&lt;p&gt;We are hiring a &lt;strong&gt;Head of Technology&lt;/strong&gt; for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;h",
-      "location": "TELECOMMUTE",
-      "salary": "100000/year",
-      "posted": "2026-10-16",
-      "validThrough": "2026-11-15",
-      "organization": "Sanctuary Computer",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
       "name": "Principal Experience Designer - Visual Design &amp; Design Systems",
       "url": "https://www.workiva.com/latam/",
       "description": "&lt;p&gt;Workiva is looking for a Principal Experience Designer to shape the visual future of Unify, our enterprise design system. Unify powers the components, patterns, templates, accessibility standards, and shared experiences used across",
@@ -84,6 +84,18 @@
       "posted": "2026-09-30",
       "validThrough": "2026-10-30",
       "organization": "Cribl",
+      "source": "WeWorkRemotely · Design"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Graphic Designer",
+      "url": "https://catakor.com/",
+      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p class=&quot;text-body-sm multiline-text&quot; data-v-63470d6f=&quot;&quot;&gt;A leading supplement brand in its category in the U.S. market is expanding its creative team and looking for a talented Graphi",
+      "location": "United States of America",
+      "salary": "/year",
+      "posted": "2026-10-21",
+      "validThrough": "2026-11-20",
+      "organization": "Cata-Kor",
       "source": "WeWorkRemotely · Design"
     }
   ]
