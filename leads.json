@@ -1,55 +1,7 @@
 {
-  "generatedAt": "2026-10-22T06:33:20.453Z",
-  "count": 8,
+  "generatedAt": "2026-10-23T06:32:33.634Z",
+  "count": 5,
   "leads": [
-    {
-      "type": "JobPosting",
-      "name": "Senior Vue Developer",
-      "url": "https://lemon.io",
-      "description": "&lt;p&gt;&lt;a href=&quot;https://lemon.io/for-developers/?utm_source=weworkremotely&amp;amp;utm_medium=job_ad&amp;amp;utm_campaign=supply_en_vue_nuxt/node/php/net/python_oct_2026_job_ad&quot;&gt;Lemon.io&lt;/a&gt; helps companies in the US",
-      "location": "Ukraine",
-      "salary": "0/year",
-      "posted": "2026-10-21",
-      "validThrough": "2026-11-20",
-      "organization": "Lemon.io",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Senior Analytics Engineer / BI Lead — Channel Insights (iX360)",
-      "url": "https://weworkremotely.com",
-      "description": "&lt;p&gt;Summary&lt;/p&gt;&lt;p&gt;We are seeking an Analytics Engineer / BI Lead for Channel Insights to define the semantic layer, build dashboards, and present verified insights to leadership. This role combines Tableau Next and Data 360",
-      "location": "Remote",
-      "salary": "0/year",
-      "posted": "2026-10-20",
-      "validThrough": "2026-11-19",
-      "organization": "Toptal",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Senior Data Engineer",
-      "url": "https://growthminded.co",
-      "description": "&lt;div class=&quot;space-y-12&quot;&gt; &lt;section&gt; &lt;h2 class=&quot;text-3xl font-medium&quot;&gt;About the role&lt;/h2&gt; &lt;p class=&quot;mt-5 whitespace-pre-line text-lg leading-relaxed text-[#526760]&quot;&gt;You&#39;ll own th",
-      "location": "TELECOMMUTE",
-      "salary": "50000/year",
-      "posted": "2026-10-19",
-      "validThrough": "2026-11-18",
-      "organization": "Growth Minded",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Senior Fullstack Developer (React.js / Node.js)",
-      "url": "http://career.proxify.io",
-      "description": "&lt;h3 dir=&quot;ltr&quot;&gt;&lt;strong&gt;The Role:&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;We are looking for a Senior Fullstack Developer skilled in React.js and ",
-      "location": "TELECOMMUTE",
-      "salary": "0/year",
-      "posted": "2026-10-19",
-      "validThrough": "2026-11-18",
-      "organization": "Proxify AB",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
     {
       "type": "JobPosting",
       "name": "Principal Experience Designer - Visual Design &amp; Design Systems",
@@ -96,6 +48,18 @@
       "posted": "2026-10-21",
       "validThrough": "2026-11-20",
       "organization": "Cata-Kor",
+      "source": "WeWorkRemotely · Design"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Senior Product Designer (Webflow) Temp to Perm",
+      "url": "https://weworkremotely.com",
+      "description": "&lt;h1 class=&quot;PDq2pG_selectionAnchorContainer&quot; data-section-id=&quot;fna3dz&quot; data-start=&quot;173&quot; data-end=&quot;208&quot;&gt;Senior Product Designer (Webflow)&lt;/h1&gt; &lt;h2 class=&quot;&quot; data-section-id=&quot;",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2026-10-19",
+      "validThrough": "2026-11-18",
+      "organization": "Current",
       "source": "WeWorkRemotely · Design"
     }
   ]
