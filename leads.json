@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-23T06:32:33.634Z",
-  "count": 5,
+  "generatedAt": "2026-10-24T06:27:15.229Z",
+  "count": 6,
   "leads": [
     {
       "type": "JobPosting",
@@ -61,6 +61,18 @@
       "validThrough": "2026-11-18",
       "organization": "Current",
       "source": "WeWorkRemotely · Design"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Development Manager",
+      "url": "https://aquifer.org/",
+      "description": "&lt;h2 dir=&quot;ltr&quot;&gt;Summary&lt;/h2&gt; &lt;p dir=&quot;ltr&quot;&gt;The Development Manager reports into the Chief Technology Officer and owns the engineering capacity, delivery commitments, and technical execution quality across ",
+      "location": "United States of America",
+      "salary": "100000/year",
+      "posted": "2026-10-23",
+      "validThrough": "2026-11-22",
+      "organization": "Aquifer",
+      "source": "WeWorkRemotely · DevOps"
     }
   ]
 }
