@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T06:27:15.229Z",
+  "generatedAt": "2026-10-25T06:28:59.402Z",
   "count": 6,
   "leads": [
     {
@@ -40,6 +40,18 @@
     },
     {
       "type": "JobPosting",
+      "name": "Senior Product Design Manager, Payroll",
+      "url": "https://weworkremotely.com",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;line-height: 1.2;&quot;&gt;&amp;nbsp;&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;About Gusto&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Gusto, we&#39;re on a mission to grow the small ",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2026-10-24",
+      "validThrough": "2026-11-23",
+      "organization": "Gusto, Inc.",
+      "source": "WeWorkRemotely · Design"
+    },
+    {
+      "type": "JobPosting",
       "name": "Graphic Designer",
       "url": "https://catakor.com/",
       "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p class=&quot;text-body-sm multiline-text&quot; data-v-63470d6f=&quot;&quot;&gt;A leading supplement brand in its category in the U.S. market is expanding its creative team and looking for a talented Graphi",
@@ -48,18 +60,6 @@
       "posted": "2026-10-21",
       "validThrough": "2026-11-20",
       "organization": "Cata-Kor",
-      "source": "WeWorkRemotely · Design"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Senior Product Designer (Webflow) Temp to Perm",
-      "url": "https://weworkremotely.com",
-      "description": "&lt;h1 class=&quot;PDq2pG_selectionAnchorContainer&quot; data-section-id=&quot;fna3dz&quot; data-start=&quot;173&quot; data-end=&quot;208&quot;&gt;Senior Product Designer (Webflow)&lt;/h1&gt; &lt;h2 class=&quot;&quot; data-section-id=&quot;",
-      "location": "TELECOMMUTE",
-      "salary": "0/year",
-      "posted": "2026-10-19",
-      "validThrough": "2026-11-18",
-      "organization": "Current",
       "source": "WeWorkRemotely · Design"
     },
     {
