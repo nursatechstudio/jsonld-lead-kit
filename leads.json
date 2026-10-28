@@ -1,7 +1,19 @@
 {
-  "generatedAt": "2026-10-27T06:35:08.265Z",
-  "count": 8,
+  "generatedAt": "2026-10-28T06:41:22.104Z",
+  "count": 11,
   "leads": [
+    {
+      "type": "JobPosting",
+      "name": "Senior Full Stack",
+      "url": "https://toggl.com/jobs/",
+      "description": "&lt;div class=&quot;_descriptionText_5yu8i_201 ashby-job-posting-description&quot;&gt; &lt;p&gt;We are looking for a Senior Full Stack Engineer to join one of our Product Tribes, the cross-functional units that own the end-to-end experience",
+      "location": "TELECOMMUTE",
+      "salary": "75000/year",
+      "posted": "2026-08-28",
+      "validThrough": "2026-11-26",
+      "organization": "Toggl",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
     {
       "type": "JobPosting",
       "name": "Senior Deployment Engineer with LLM and GPU Infrastructure experience",
@@ -19,7 +31,7 @@
       "name": "Senior Vue Developer",
       "url": "https://lemon.io",
       "description": "&lt;p&gt;&lt;a href=&quot;https://lemon.io/for-developers/?utm_source=weworkremotely&amp;amp;utm_medium=job_ad&amp;amp;utm_campaign=supply_en_vue_nuxt/node/php/net/python_oct_2026_job_ad&quot;&gt;Lemon.io&lt;/a&gt; helps companies in the US",
-      "location": "Puerto Rico",
+      "location": "Japan",
       "salary": "0/year",
       "posted": "2026-10-21",
       "validThrough": "2026-11-20",
@@ -37,6 +49,30 @@
       "validThrough": "2026-11-15",
       "organization": "Samsara",
       "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
+      "name": "SI agent engineer",
+      "url": "https://www.stickermule.com",
+      "description": "&lt;p&gt;Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and super intelligence in one stack.&lt;/p&gt; &lt;div&gt;&amp;nbsp;&lt;/div&gt; &lt;p&gt;We&#39;re hiring an engin",
+      "location": "TELECOMMUTE",
+      "salary": "100000/year",
+      "posted": "2026-09-16",
+      "validThrough": "2026-11-15",
+      "organization": "Sticker Mule",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Executive Assistant / Project Manager",
+      "url": "http://www.TrustedBuildTech.com",
+      "description": "&lt;p&gt;Trusted Building Technologies is a US-based construction company.&amp;nbsp; We&#39;re looking for an experienced Executive Assistant to manage projects remotely.&amp;nbsp; Experience designing documents, managing multiple websites,",
+      "location": "TELECOMMUTE",
+      "salary": "/year",
+      "posted": "2026-10-27",
+      "validThrough": "2026-11-26",
+      "organization": "Trusted Building Technologies Inc.",
+      "source": "WeWorkRemotely · Design"
     },
     {
       "type": "JobPosting",
@@ -79,7 +115,7 @@
       "name": " Head of Design | Maps Platform (Remote in Europe)",
       "url": "https://www.maptiler.com/",
       "description": "&lt;ul&gt; &lt;li&gt;Full-time&amp;nbsp;&lt;/li&gt; &lt;li&gt;Freelance / B2B contract&amp;nbsp;&lt;/li&gt; &lt;li&gt;Remote in Europe&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;br&gt;&lt;br&gt;MapTiler is m",
-      "location": "Poland",
+      "location": "Latvia",
       "salary": "75000/year",
       "posted": "2026-10-26",
       "validThrough": "2026-11-25",
