@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T06:41:22.104Z",
+  "generatedAt": "2026-10-29T06:43:33.639Z",
   "count": 11,
   "leads": [
     {
@@ -28,18 +28,6 @@
     },
     {
       "type": "JobPosting",
-      "name": "Senior Vue Developer",
-      "url": "https://lemon.io",
-      "description": "&lt;p&gt;&lt;a href=&quot;https://lemon.io/for-developers/?utm_source=weworkremotely&amp;amp;utm_medium=job_ad&amp;amp;utm_campaign=supply_en_vue_nuxt/node/php/net/python_oct_2026_job_ad&quot;&gt;Lemon.io&lt;/a&gt; helps companies in the US",
-      "location": "Japan",
-      "salary": "0/year",
-      "posted": "2026-10-21",
-      "validThrough": "2026-11-20",
-      "organization": "Lemon.io",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
       "name": "Staff Software Engineer",
       "url": "https://www.samsara.com/",
       "description": "&lt;p&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Samsara (NYSE: IOT) sits at the center of hardware, software, AI, and the physical world. The platform processes 25+ trillion data points annually from IoT sensors, ca",
@@ -60,6 +48,18 @@
       "posted": "2026-09-16",
       "validThrough": "2026-11-15",
       "organization": "Sticker Mule",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Engineering Manager",
+      "url": "http://www.medify.co.uk",
+      "description": "&lt;p&gt;Remote | Full-Time | UK&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/p&gt; &lt;p&gt;About Us&lt;/p&gt; &lt;p&gt;At Medify, we&amp;rsquo;re on a mission to widen access to medicine and healthcare careers through world-class digital learning ex",
+      "location": "United Kingdom of Great Britain and Northern Ireland",
+      "salary": "100000/year",
+      "posted": "2026-10-15",
+      "validThrough": "2026-11-14",
+      "organization": "Medify",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
@@ -115,7 +115,7 @@
       "name": " Head of Design | Maps Platform (Remote in Europe)",
       "url": "https://www.maptiler.com/",
       "description": "&lt;ul&gt; &lt;li&gt;Full-time&amp;nbsp;&lt;/li&gt; &lt;li&gt;Freelance / B2B contract&amp;nbsp;&lt;/li&gt; &lt;li&gt;Remote in Europe&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;br&gt;&lt;br&gt;MapTiler is m",
-      "location": "Latvia",
+      "location": "Monaco",
       "salary": "75000/year",
       "posted": "2026-10-26",
       "validThrough": "2026-11-25",
