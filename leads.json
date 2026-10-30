@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T06:43:33.639Z",
-  "count": 11,
+  "generatedAt": "2026-10-30T06:44:28.207Z",
+  "count": 13,
   "leads": [
     {
       "type": "JobPosting",
@@ -12,18 +12,6 @@
       "posted": "2026-08-28",
       "validThrough": "2026-11-26",
       "organization": "Toggl",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Senior Deployment Engineer with LLM and GPU Infrastructure experience",
-      "url": "https://weworkremotely.com",
-      "description": "&lt;p&gt;Summary&lt;/p&gt;&lt;p&gt;We are seeking an Infrastructure Engineer for Air-gapped LLM Deployments to support secure, large-scale software deployments in GPU-based environments. The role focuses on deploying LLM workloads in air-ga",
-      "location": "Remote",
-      "salary": "0/year",
-      "posted": "2026-10-22",
-      "validThrough": "2026-11-21",
-      "organization": "Toptal",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
@@ -61,6 +49,42 @@
       "validThrough": "2026-11-14",
       "organization": "Medify",
       "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Senior Shopify Developer (Remote + Flexible)",
+      "url": "https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021",
+      "description": "&lt;h1&gt;Shopify developers love to freelance with Storetasker.&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Endless, quality clients: &lt;/strong&gt;from well known DTC brands to top agencies.&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Fu",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2024-05-13",
+      "validThrough": "2026-11-29",
+      "organization": "Storetasker",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Senior Independent AI Engineer / Architect",
+      "url": "http://a.team/ai-jobs?utm_source=wwr&amp;utm_medium=post&amp;utm_campaign=wwrai",
+      "description": "&lt;p&gt;&lt;strong&gt;Senior Independent AI Engineer / Architect&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Remote | Americas, Europe, or Israel&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Most AI engineers can find work.&lt;/p&gt; &lt;p&gt;Finding wor",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2024-06-16",
+      "validThrough": "2026-11-03",
+      "organization": "A.Team",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Brand Designer ",
+      "url": "https://thatch.com/",
+      "description": "&lt;h3 class=&quot;mb-4 text-xl font-extrabold tracking-tight text-gray-900 sm:text-3xl md:text-2xl&quot;&gt;About the role&lt;/h3&gt; &lt;p&gt;For most people, health insurance happens to them: a plan chosen by someone else, with little ro",
+      "location": "United States of America",
+      "salary": "100000/year",
+      "posted": "2026-10-29",
+      "validThrough": "2026-11-28",
+      "organization": "Thatch",
+      "source": "WeWorkRemotely · Design"
     },
     {
       "type": "JobPosting",
@@ -112,15 +136,15 @@
     },
     {
       "type": "JobPosting",
-      "name": " Head of Design | Maps Platform (Remote in Europe)",
-      "url": "https://www.maptiler.com/",
-      "description": "&lt;ul&gt; &lt;li&gt;Full-time&amp;nbsp;&lt;/li&gt; &lt;li&gt;Freelance / B2B contract&amp;nbsp;&lt;/li&gt; &lt;li&gt;Remote in Europe&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;br&gt;&lt;br&gt;MapTiler is m",
-      "location": "Monaco",
-      "salary": "75000/year",
-      "posted": "2026-10-26",
-      "validThrough": "2026-11-25",
-      "organization": "MapTiler",
-      "source": "WeWorkRemotely · Design"
+      "name": "Principal Data Engineer",
+      "url": "https://weworkremotely.com",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other,",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2026-10-29",
+      "validThrough": "2026-11-28",
+      "organization": "ZoomInfo Technologies LLC",
+      "source": "WeWorkRemotely · DevOps"
     },
     {
       "type": "JobPosting",
