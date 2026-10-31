@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T06:44:28.207Z",
-  "count": 13,
+  "generatedAt": "2026-10-31T06:42:16.421Z",
+  "count": 12,
   "leads": [
     {
       "type": "JobPosting",
@@ -76,6 +76,18 @@
     },
     {
       "type": "JobPosting",
+      "name": "Sr. UX Designer, Security",
+      "url": "https://cribl.io/",
+      "description": "&lt;div&gt; &lt;p&gt;Join the company that&amp;rsquo;s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world&amp;rsquo;s biggest enterprises, including half of the Fortune",
+      "location": "United States of America",
+      "salary": "100000/year",
+      "posted": "2026-09-30",
+      "validThrough": "2026-11-29",
+      "organization": "Cribl",
+      "source": "WeWorkRemotely · Design"
+    },
+    {
+      "type": "JobPosting",
       "name": "Brand Designer ",
       "url": "https://thatch.com/",
       "description": "&lt;h3 class=&quot;mb-4 text-xl font-extrabold tracking-tight text-gray-900 sm:text-3xl md:text-2xl&quot;&gt;About the role&lt;/h3&gt; &lt;p&gt;For most people, health insurance happens to them: a plan chosen by someone else, with little ro",
@@ -124,38 +136,14 @@
     },
     {
       "type": "JobPosting",
-      "name": "Sr. UX Designer, Security",
-      "url": "https://cribl.io/",
-      "description": "&lt;div&gt; &lt;p&gt;Join the company that&amp;rsquo;s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world&amp;rsquo;s biggest enterprises, including half of the Fortune",
-      "location": "United States of America",
-      "salary": "100000/year",
-      "posted": "2026-09-30",
-      "validThrough": "2026-10-30",
-      "organization": "Cribl",
-      "source": "WeWorkRemotely · Design"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Principal Data Engineer",
+      "name": "CloudOps Engineer (Network Engineer)",
       "url": "https://weworkremotely.com",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other,",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a sin",
       "location": "TELECOMMUTE",
       "salary": "0/year",
-      "posted": "2026-10-29",
-      "validThrough": "2026-11-28",
-      "organization": "ZoomInfo Technologies LLC",
-      "source": "WeWorkRemotely · DevOps"
-    },
-    {
-      "type": "JobPosting",
-      "name": "MSP Mac Help Desk Guru (work from home)",
-      "url": "https://ignitionit.com",
-      "description": "&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Fully Remote &amp;middot; Work from home &amp;middot; Full-time (Eastern or Pacific time zones) &amp;middot; Apple-first&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;&lt;strong&g",
-      "location": "TELECOMMUTE",
-      "salary": "50000/year",
-      "posted": "2026-10-27",
-      "validThrough": "2026-11-26",
-      "organization": "Ignition, Inc.",
+      "posted": "2026-10-30",
+      "validThrough": "2026-11-29",
+      "organization": "Wrike",
       "source": "WeWorkRemotely · DevOps"
     }
   ]
