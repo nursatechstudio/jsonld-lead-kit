@@ -1,4 +1,4 @@
-# Leads collected — 2026-11-02T07:11:01.856Z
+# Leads collected — 2026-11-03T13:52:34.195Z
 
 Total: **12** leads (from public JSON-LD).
 
@@ -15,4 +15,4 @@ Total: **12** leads (from public JSON-LD).
 | JobPosting | Executive Assistant / Project Manager | Trusted Building Technologies Inc. | /year | TELECOMMUTE | 2026-10-27 | WeWorkRemotely · Design |
 | JobPosting | Principal Experience Designer - Visual Design &amp; Design Systems | Workiva | 100000/year | United States of America | 2026-10-20 | WeWorkRemotely · Design |
 | JobPosting | Senior 3D Designer | Contra | 0/year | TELECOMMUTE | 2026-10-07 | WeWorkRemotely · Design |
-| JobPosting | CloudOps Engineer (Network Engineer) | Wrike | 0/year | TELECOMMUTE | 2026-10-30 | WeWorkRemotely · DevOps |
+| JobPosting | Salesforce Business Systems Administrator | Salesloft | 0/year | United States of America | 2026-11-02 | WeWorkRemotely · DevOps |

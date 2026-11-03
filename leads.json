@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T07:11:01.856Z",
+  "generatedAt": "2026-11-03T13:52:34.195Z",
   "count": 12,
   "leads": [
     {
@@ -136,14 +136,14 @@
     },
     {
       "type": "JobPosting",
-      "name": "CloudOps Engineer (Network Engineer)",
+      "name": "Salesforce Business Systems Administrator",
       "url": "https://weworkremotely.com",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a sin",
-      "location": "TELECOMMUTE",
+      "description": "&lt;p&gt;&lt;strong&gt;ROLE: &lt;/strong&gt;Business Systems Administrator&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Location: &lt;/strong&gt;United States, Remote&lt;/p&gt; &lt;p&gt;&lt;em&gt;This is a fully remote opportunity and can be worked fro",
+      "location": "United States of America",
       "salary": "0/year",
-      "posted": "2026-10-30",
-      "validThrough": "2026-11-29",
-      "organization": "Wrike",
+      "posted": "2026-11-02",
+      "validThrough": "2026-12-02",
+      "organization": "Salesloft",
       "source": "WeWorkRemotely · DevOps"
     }
   ]
