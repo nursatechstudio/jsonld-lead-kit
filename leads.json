@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T13:52:34.195Z",
-  "count": 12,
+  "generatedAt": "2026-11-04T14:00:44.175Z",
+  "count": 6,
   "leads": [
     {
       "type": "JobPosting",
@@ -12,30 +12,6 @@
       "posted": "2026-08-28",
       "validThrough": "2026-11-26",
       "organization": "Toggl",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Staff Software Engineer",
-      "url": "https://www.samsara.com/",
-      "description": "&lt;p&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Samsara (NYSE: IOT) sits at the center of hardware, software, AI, and the physical world. The platform processes 25+ trillion data points annually from IoT sensors, ca",
-      "location": "United States of America",
-      "salary": "100000/year",
-      "posted": "2026-08-17",
-      "validThrough": "2026-11-15",
-      "organization": "Samsara",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "SI agent engineer",
-      "url": "https://www.stickermule.com",
-      "description": "&lt;p&gt;Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and super intelligence in one stack.&lt;/p&gt; &lt;div&gt;&amp;nbsp;&lt;/div&gt; &lt;p&gt;We&#39;re hiring an engin",
-      "location": "TELECOMMUTE",
-      "salary": "100000/year",
-      "posted": "2026-09-16",
-      "validThrough": "2026-11-15",
-      "organization": "Sticker Mule",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
@@ -52,25 +28,13 @@
     },
     {
       "type": "JobPosting",
-      "name": "Senior Shopify Developer (Remote + Flexible)",
-      "url": "https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021",
-      "description": "&lt;h1&gt;Shopify developers love to freelance with Storetasker.&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Endless, quality clients: &lt;/strong&gt;from well known DTC brands to top agencies.&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Fu",
-      "location": "TELECOMMUTE",
-      "salary": "0/year",
-      "posted": "2024-05-13",
-      "validThrough": "2026-11-29",
-      "organization": "Storetasker",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Senior Independent AI Engineer / Architect",
-      "url": "http://a.team/ai-jobs?utm_source=wwr&amp;utm_medium=post&amp;utm_campaign=wwrai",
-      "description": "&lt;p&gt;&lt;strong&gt;Senior Independent AI Engineer / Architect&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Remote | Americas, Europe, or Israel&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Most AI engineers can find work.&lt;/p&gt; &lt;p&gt;Finding wor",
+      "name": "Senior Independent Software Developer ($90-$170/hr)",
+      "url": "https://build.a.team/wwrfastrackreferral",
+      "description": "&lt;div&gt;Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;At A·Team, we’ve turned this vision into reality for top-tier independent softwar",
       "location": "TELECOMMUTE",
       "salary": "0/year",
       "posted": "2024-06-16",
-      "validThrough": "2026-11-03",
+      "validThrough": "2026-12-03",
       "organization": "A.Team",
       "source": "WeWorkRemotely · Full-Stack"
     },
@@ -88,42 +52,6 @@
     },
     {
       "type": "JobPosting",
-      "name": "Brand Designer ",
-      "url": "https://thatch.com/",
-      "description": "&lt;h3 class=&quot;mb-4 text-xl font-extrabold tracking-tight text-gray-900 sm:text-3xl md:text-2xl&quot;&gt;About the role&lt;/h3&gt; &lt;p&gt;For most people, health insurance happens to them: a plan chosen by someone else, with little ro",
-      "location": "United States of America",
-      "salary": "100000/year",
-      "posted": "2026-10-29",
-      "validThrough": "2026-11-28",
-      "organization": "Thatch",
-      "source": "WeWorkRemotely · Design"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Executive Assistant / Project Manager",
-      "url": "http://www.TrustedBuildTech.com",
-      "description": "&lt;p&gt;Trusted Building Technologies is a US-based construction company.&amp;nbsp; We&#39;re looking for an experienced Executive Assistant to manage projects remotely.&amp;nbsp; Experience designing documents, managing multiple websites,",
-      "location": "TELECOMMUTE",
-      "salary": "/year",
-      "posted": "2026-10-27",
-      "validThrough": "2026-11-26",
-      "organization": "Trusted Building Technologies Inc.",
-      "source": "WeWorkRemotely · Design"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Principal Experience Designer - Visual Design &amp; Design Systems",
-      "url": "https://www.workiva.com/latam/",
-      "description": "&lt;p&gt;Workiva is looking for a Principal Experience Designer to shape the visual future of Unify, our enterprise design system. Unify powers the components, patterns, templates, accessibility standards, and shared experiences used across",
-      "location": "United States of America",
-      "salary": "100000/year",
-      "posted": "2026-10-20",
-      "validThrough": "2026-11-19",
-      "organization": "Workiva",
-      "source": "WeWorkRemotely · Design"
-    },
-    {
-      "type": "JobPosting",
       "name": "Senior 3D Designer",
       "url": "http://bit.ly/3kLhMdk",
       "description": "&lt;h2 data-level=&quot;2&quot;&gt;&lt;strong&gt;About Contra Labs&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Contra Labs sits at the intersection of human creativity and AI. We partner with leading AI labs and product companies to improve their to",
@@ -136,14 +64,14 @@
     },
     {
       "type": "JobPosting",
-      "name": "Salesforce Business Systems Administrator",
+      "name": "Consumer Support Specialist (Weekend Shift, Sunday - Thursday)",
       "url": "https://weworkremotely.com",
-      "description": "&lt;p&gt;&lt;strong&gt;ROLE: &lt;/strong&gt;Business Systems Administrator&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Location: &lt;/strong&gt;United States, Remote&lt;/p&gt; &lt;p&gt;&lt;em&gt;This is a fully remote opportunity and can be worked fro",
-      "location": "United States of America",
+      "description": "&lt;p&gt;Keeper is hiring a passionate Technical Consumer Support Specialist to contribute knowledge and expertise to our B2C Support team. This is a 100% remote position from select locations (Central, Mountain or Eastern Time Zones) with ",
+      "location": "TELECOMMUTE",
       "salary": "0/year",
-      "posted": "2026-11-02",
-      "validThrough": "2026-12-02",
-      "organization": "Salesloft",
+      "posted": "2026-10-30",
+      "validThrough": "2026-11-29",
+      "organization": "Keeper Security",
       "source": "WeWorkRemotely · DevOps"
     }
   ]
