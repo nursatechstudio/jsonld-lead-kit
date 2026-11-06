@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-05T14:21:57.821Z",
-  "count": 11,
+  "generatedAt": "2026-11-06T13:58:32.550Z",
+  "count": 10,
   "leads": [
     {
       "type": "JobPosting",
-      "name": "ML Inference Engineer – Terminal-Bench Task Designer",
+      "name": "Cryptography Specialist for AI lab",
       "url": "https://weworkremotely.com",
-      "description": "&lt;p&gt;Overview&lt;/p&gt;&lt;p&gt;We are building a benchmark that tests how well AI agents handle real expert work in a terminal. We are hiring ML inference and serving experts to turn real, paid tasks from their jobs into expert-level T",
+      "description": "&lt;p&gt;Overview&lt;/p&gt;&lt;p&gt;A fast-growing AI evaluation company is building expert-level benchmarks that test how well AI agents handle real professional work in the terminal. We are hiring cryptography experts to turn real, paid t",
       "location": "TELECOMMUTE",
       "salary": "0/year",
-      "posted": "2026-11-04",
-      "validThrough": "2026-12-04",
+      "posted": "2026-11-05",
+      "validThrough": "2026-12-05",
       "organization": "Toptal",
       "source": "WeWorkRemotely · Full-Stack"
     },
@@ -64,15 +64,27 @@
     },
     {
       "type": "JobPosting",
-      "name": "Senior Independent Software Developer ($90-$170/hr)",
-      "url": "https://build.a.team/wwrfastrackreferral",
-      "description": "&lt;div&gt;Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;At A·Team, we’ve turned this vision into reality for top-tier independent softwar",
+      "name": "Senior 3D Designer",
+      "url": "http://bit.ly/3kLhMdk",
+      "description": "&lt;h2 data-level=&quot;2&quot;&gt;&lt;strong&gt;About Contra Labs&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Contra Labs sits at the intersection of human creativity and AI. We partner with leading AI labs and product companies to improve their to",
       "location": "TELECOMMUTE",
       "salary": "0/year",
-      "posted": "2024-06-16",
-      "validThrough": "2026-12-03",
-      "organization": "A.Team",
-      "source": "WeWorkRemotely · Full-Stack"
+      "posted": "2026-10-07",
+      "validThrough": "2026-12-06",
+      "organization": "Contra",
+      "source": "WeWorkRemotely · Design"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Senior Creative &amp; Web Designer",
+      "url": "https://breakthroughdesign.com",
+      "description": "&lt;div&gt; &lt;h1&gt;Senior Creative &amp;amp; Web Designer Position (Contract)&lt;/h1&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;strong&gt;Breakthrough Design Group Inc.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Job Description&lt;/s",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2026-11-05",
+      "validThrough": "2026-12-05",
+      "organization": "Breakthrough Design Group",
+      "source": "WeWorkRemotely · Design"
     },
     {
       "type": "JobPosting",
@@ -108,30 +120,6 @@
       "posted": "2026-10-20",
       "validThrough": "2026-11-19",
       "organization": "Workiva",
-      "source": "WeWorkRemotely · Design"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Senior 3D Designer",
-      "url": "http://bit.ly/3kLhMdk",
-      "description": "&lt;h2 data-level=&quot;2&quot;&gt;&lt;strong&gt;About Contra Labs&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Contra Labs sits at the intersection of human creativity and AI. We partner with leading AI labs and product companies to improve their to",
-      "location": "TELECOMMUTE",
-      "salary": "0/year",
-      "posted": "2026-10-07",
-      "validThrough": "2026-11-06",
-      "organization": "Contra",
-      "source": "WeWorkRemotely · Design"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Photographer – AI Image Quality Evaluation (Remote, U.S.)",
-      "url": "https://www.elitebrain.ai",
-      "description": "&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Company Description&lt;/h2&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;Our client is seeking photography professionals to support an initiative focused on evaluating and improving visual data quality for next-",
-      "location": "Pembroke Pines, Florida, United States",
-      "salary": "75000/year",
-      "posted": "2026-11-03",
-      "validThrough": "2026-12-03",
-      "organization": "ELITEBRAIN",
       "source": "WeWorkRemotely · Design"
     }
   ]
