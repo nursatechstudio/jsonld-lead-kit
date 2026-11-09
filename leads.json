@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-08T12:59:21.256Z",
-  "count": 10,
+  "generatedAt": "2026-11-09T15:40:56.483Z",
+  "count": 11,
   "leads": [
     {
       "type": "JobPosting",
-      "name": "Cryptography Specialist for AI lab",
+      "name": "CAD scripting Expert",
       "url": "https://weworkremotely.com",
-      "description": "&lt;p&gt;Overview&lt;/p&gt;&lt;p&gt;A fast-growing AI evaluation company is building expert-level benchmarks that test how well AI agents handle real professional work in the terminal. We are hiring cryptography experts to turn real, paid t",
+      "description": "&lt;p&gt;Overview&lt;/p&gt;&lt;p&gt;We are building evaluation benchmarks that test whether AI agents can complete real professional work from start to finish. We are hiring expert mechanical design and CAD automation engineers to turn real",
       "location": "TELECOMMUTE",
       "salary": "0/year",
-      "posted": "2026-11-05",
-      "validThrough": "2026-12-05",
+      "posted": "2026-11-09",
+      "validThrough": "2026-12-09",
       "organization": "Toptal",
       "source": "WeWorkRemotely · Full-Stack"
     },
@@ -48,18 +48,6 @@
       "posted": "2026-10-15",
       "validThrough": "2026-11-14",
       "organization": "Medify",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Senior Independent AI Engineer / Architect",
-      "url": "http://a.team/ai-jobs?utm_source=wwr&amp;utm_medium=post&amp;utm_campaign=wwrai",
-      "description": "&lt;p&gt;&lt;strong&gt;Senior Independent AI Engineer / Architect&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Remote | Americas, Europe, or Israel&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Most AI engineers can find work.&lt;/p&gt; &lt;p&gt;Finding wor",
-      "location": "TELECOMMUTE",
-      "salary": "0/year",
-      "posted": "2024-06-16",
-      "validThrough": "2026-12-03",
-      "organization": "A.Team",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
@@ -121,6 +109,30 @@
       "validThrough": "2026-11-19",
       "organization": "Workiva",
       "source": "WeWorkRemotely · Design"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Full-Stack Platform Engineer",
+      "url": "https://www.edgewaterit.com",
+      "description": "&lt;h2&gt;Overview&lt;/h2&gt; &lt;p&gt;Edgewater Federal Solutions is seeking an experienced &lt;strong&gt;Full-Stack Platform Engineer&lt;/strong&gt;.&amp;nbsp;The Full-Stack Platform Engineer provides senior technical leadership and hands",
+      "location": "United States",
+      "salary": "100000/year",
+      "posted": "2026-11-09",
+      "validThrough": "2026-12-09",
+      "organization": "Edgewater Federal Solutions, Inc.",
+      "source": "WeWorkRemotely · DevOps"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Senior Backend Cloud Engineer",
+      "url": "http://www.halcyon.ai",
+      "description": "&lt;div&gt;&lt;p&gt;&lt;strong&gt;What we do:&lt;/strong&gt;&lt;br&gt;Halcyon is the industry’s first dedicated, adaptive security platform that combines multiple proprietary advanced prevention engines along with AI models focused specific",
+      "location": "United States",
+      "salary": "100000/year",
+      "posted": "2026-11-09",
+      "validThrough": "2026-12-09",
+      "organization": "Halcyon",
+      "source": "WeWorkRemotely · DevOps"
     }
   ]
 }
