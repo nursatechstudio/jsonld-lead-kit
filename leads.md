@@ -1,4 +1,4 @@
-# Leads collected — 2026-11-09T15:40:56.483Z
+# Leads collected — 2026-11-10T14:35:46.514Z
 
 Total: **11** leads (from public JSON-LD).
 
