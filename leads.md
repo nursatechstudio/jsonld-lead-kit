@@ -1,6 +1,6 @@
-# Leads collected — 2026-11-10T14:35:46.514Z
+# Leads collected — 2026-11-11T13:50:23.409Z
 
-Total: **11** leads (from public JSON-LD).
+Total: **12** leads (from public JSON-LD).
 
 | Type | Name | Organization | Salary | Location | Posted | Source |
 |---|---|---|---|---|---|---|
@@ -13,5 +13,6 @@ Total: **11** leads (from public JSON-LD).
 | JobPosting | Sr. UX Designer, Security | Cribl | 100000/year | United States of America | 2026-09-30 | WeWorkRemotely · Design |
 | JobPosting | Brand Designer  | Thatch | 100000/year | United States of America | 2026-10-29 | WeWorkRemotely · Design |
 | JobPosting | Principal Experience Designer - Visual Design &amp; Design Systems | Workiva | 100000/year | United States of America | 2026-10-20 | WeWorkRemotely · Design |
+| JobPosting | Cloud Engineer | Knack | 0/year | TELECOMMUTE | 2026-11-10 | WeWorkRemotely · DevOps |
 | JobPosting | Full-Stack Platform Engineer | Edgewater Federal Solutions, Inc. | 100000/year | United States | 2026-11-09 | WeWorkRemotely · DevOps |
 | JobPosting | Senior Backend Cloud Engineer | Halcyon | 100000/year | United States | 2026-11-09 | WeWorkRemotely · DevOps |

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T14:35:46.514Z",
-  "count": 11,
+  "generatedAt": "2026-11-11T13:50:23.409Z",
+  "count": 12,
   "leads": [
     {
       "type": "JobPosting",
@@ -109,6 +109,18 @@
       "validThrough": "2026-11-19",
       "organization": "Workiva",
       "source": "WeWorkRemotely · Design"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Cloud Engineer",
+      "url": "https://knack.com",
+      "description": "&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Location: US Based (Full-Time, Remote) or International Contractor (Full-Time, Remote)&lt;/strong&gt;&lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;If US-Based:&lt;br&gt;This will be a remote position bas",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2026-11-10",
+      "validThrough": "2026-12-10",
+      "organization": "Knack",
+      "source": "WeWorkRemotely · DevOps"
     },
     {
       "type": "JobPosting",
