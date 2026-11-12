@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T13:50:23.409Z",
-  "count": 12,
+  "generatedAt": "2026-11-12T14:53:24.845Z",
+  "count": 13,
   "leads": [
     {
       "type": "JobPosting",
@@ -48,6 +48,18 @@
       "posted": "2026-10-15",
       "validThrough": "2026-11-14",
       "organization": "Medify",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Senior Independent AI Engineer / Architect",
+      "url": "http://a.team/ai-jobs?utm_source=wwr&amp;utm_medium=post&amp;utm_campaign=wwrai",
+      "description": "&lt;p&gt;&lt;strong&gt;Senior Independent AI Engineer / Architect&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Remote | Americas, Europe, or Israel&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Most AI engineers can find work.&lt;/p&gt; &lt;p&gt;Finding wor",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2024-06-16",
+      "validThrough": "2026-12-03",
+      "organization": "A.Team",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
