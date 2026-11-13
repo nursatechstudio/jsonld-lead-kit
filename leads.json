@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T14:53:24.845Z",
-  "count": 13,
+  "generatedAt": "2026-11-13T14:16:17.668Z",
+  "count": 14,
   "leads": [
     {
       "type": "JobPosting",
@@ -64,6 +64,18 @@
     },
     {
       "type": "JobPosting",
+      "name": "Senior Independent Software Developer ($90-$170/hr)",
+      "url": "https://build.a.team/wwrfastrackreferral",
+      "description": "&lt;div&gt;Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;At A·Team, we’ve turned this vision into reality for top-tier independent softwar",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2024-06-16",
+      "validThrough": "2026-12-03",
+      "organization": "A.Team",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
       "name": "Senior 3D Designer",
       "url": "http://bit.ly/3kLhMdk",
       "description": "&lt;h2 data-level=&quot;2&quot;&gt;&lt;strong&gt;About Contra Labs&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Contra Labs sits at the intersection of human creativity and AI. We partner with leading AI labs and product companies to improve their to",
@@ -72,18 +84,6 @@
       "posted": "2026-10-07",
       "validThrough": "2026-12-06",
       "organization": "Contra",
-      "source": "WeWorkRemotely · Design"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Senior Creative &amp; Web Designer",
-      "url": "https://breakthroughdesign.com",
-      "description": "&lt;div&gt; &lt;h1&gt;Senior Creative &amp;amp; Web Designer Position (Contract)&lt;/h1&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;strong&gt;Breakthrough Design Group Inc.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Job Description&lt;/s",
-      "location": "TELECOMMUTE",
-      "salary": "0/year",
-      "posted": "2026-11-05",
-      "validThrough": "2026-12-05",
-      "organization": "Breakthrough Design Group",
       "source": "WeWorkRemotely · Design"
     },
     {
@@ -120,6 +120,18 @@
       "posted": "2026-10-20",
       "validThrough": "2026-11-19",
       "organization": "Workiva",
+      "source": "WeWorkRemotely · Design"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Sr. UX Researcher (UXR-2-112026)",
+      "url": "https://jobs.workable.com/company/jozUZxNGqSdsinT91Ct4ET/jobs-at-koru-ux-design-llp",
+      "description": "About the Company&lt;p&gt;Koru UX Design is a leading UX design agency specializing in HealthTech. We partner with clients to deliver user-centered design solutions that drive innovation and enhance user experiences. Our design teams work a",
+      "location": "India",
+      "salary": "0/year",
+      "posted": "2026-11-11",
+      "validThrough": "2026-12-11",
+      "organization": "Koru UX Design LLP",
       "source": "WeWorkRemotely · Design"
     },
     {
