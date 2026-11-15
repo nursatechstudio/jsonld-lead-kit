@@ -1,7 +1,19 @@
 {
-  "generatedAt": "2026-11-14T13:14:19.906Z",
+  "generatedAt": "2026-11-15T13:42:00.941Z",
   "count": 14,
   "leads": [
+    {
+      "type": "JobPosting",
+      "name": "Staff Software Engineer",
+      "url": "https://www.samsara.com/",
+      "description": "&lt;p&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Samsara (NYSE: IOT) sits at the center of hardware, software, AI, and the physical world. The platform processes 25+ trillion data points annually from IoT sensors, ca",
+      "location": "United States of America",
+      "salary": "100000/year",
+      "posted": "2026-08-17",
+      "validThrough": "2026-12-15",
+      "organization": "Samsara",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
     {
       "type": "JobPosting",
       "name": "CAD scripting Expert",
@@ -28,30 +40,6 @@
     },
     {
       "type": "JobPosting",
-      "name": "Staff Software Engineer",
-      "url": "https://www.samsara.com/",
-      "description": "&lt;p&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Samsara (NYSE: IOT) sits at the center of hardware, software, AI, and the physical world. The platform processes 25+ trillion data points annually from IoT sensors, ca",
-      "location": "United States of America",
-      "salary": "100000/year",
-      "posted": "2026-08-17",
-      "validThrough": "2026-11-15",
-      "organization": "Samsara",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Engineering Manager",
-      "url": "http://www.medify.co.uk",
-      "description": "&lt;p&gt;Remote | Full-Time | UK&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/p&gt; &lt;p&gt;About Us&lt;/p&gt; &lt;p&gt;At Medify, we&amp;rsquo;re on a mission to widen access to medicine and healthcare careers through world-class digital learning ex",
-      "location": "United Kingdom of Great Britain and Northern Ireland",
-      "salary": "100000/year",
-      "posted": "2026-10-15",
-      "validThrough": "2026-11-14",
-      "organization": "Medify",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
       "name": "Senior Independent AI Engineer / Architect",
       "url": "http://a.team/ai-jobs?utm_source=wwr&amp;utm_medium=post&amp;utm_campaign=wwrai",
       "description": "&lt;p&gt;&lt;strong&gt;Senior Independent AI Engineer / Architect&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Remote | Americas, Europe, or Israel&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Most AI engineers can find work.&lt;/p&gt; &lt;p&gt;Finding wor",
@@ -72,6 +60,18 @@
       "posted": "2024-06-16",
       "validThrough": "2026-12-03",
       "organization": "A.Team",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Senior Shopify Developer (Remote + Flexible)",
+      "url": "https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021",
+      "description": "&lt;h1&gt;Shopify developers love to freelance with Storetasker.&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Endless, quality clients: &lt;/strong&gt;from well known DTC brands to top agencies.&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Fu",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2024-05-13",
+      "validThrough": "2026-11-29",
+      "organization": "Storetasker",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
