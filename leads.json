@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T15:16:00.451Z",
-  "count": 15,
+  "generatedAt": "2026-11-17T15:42:43.504Z",
+  "count": 16,
   "leads": [
     {
       "type": "JobPosting",
@@ -64,14 +64,14 @@
     },
     {
       "type": "JobPosting",
-      "name": "Engineering Manager, Security Platform",
-      "url": "https://truetalentsolutionspartners.com",
-      "description": "&lt;h3&gt;About the Role&lt;/h3&gt;&lt;p&gt;Lead the team responsible for authentication, authorization, and access management across a defense technology product portfolio. This net-new, player-coach role combines technical leadership with",
-      "location": "United States",
-      "salary": "100000/year",
-      "posted": "2026-11-15",
-      "validThrough": "2026-12-15",
-      "organization": "True Talent Solutions Partners",
+      "name": "Director of Content Strategy",
+      "url": "http://wevote.us",
+      "description": "&lt;div class=&quot;col col-xs-7 description&quot; id=&quot;job-description&quot;&gt; &lt;p style=&quot;text-align:center;&quot;&gt;&lt;strong&gt;Help Shape How Millions of Voters Engage with Reliable Civic Information&lt;/strong&gt;&lt;/p&",
+      "location": "United States of America",
+      "salary": "0/year",
+      "posted": "2026-11-16",
+      "validThrough": "2026-12-16",
+      "organization": "WeVote",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
@@ -136,6 +136,54 @@
     },
     {
       "type": "JobPosting",
+      "name": "Senior DevOps Engineer",
+      "url": "http://epam.com",
+      "description": "&lt;div&gt;&lt;p&gt;We are seeking a &lt;strong&gt;Senior DevOps Engineer&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Elevate your career with EPAM, a global leader in digital transformation. Apply today to explore this exciting opportunity and be pa",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2026-11-16",
+      "validThrough": "2026-12-16",
+      "organization": "EPAM Systems",
+      "source": "WeWorkRemotely · DevOps"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Microsoft Endpoint / Intune Consultant",
+      "url": "http://dl-remote.com",
+      "description": "&lt;section class=&quot;block-padding-x company-links pt-80 pb-48 print:pt-40 print:pb-24&quot;&gt; &lt;div class=&quot;prose font-company-body mx-auto max-w-750 overflow-hidden wrap-break-word [&amp;amp;_ol_li_li]:list-[lower-alpha]&quot; ",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2026-11-16",
+      "validThrough": "2026-12-16",
+      "organization": "DL Remote",
+      "source": "WeWorkRemotely · DevOps"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Senior DevOps / Platform Engineer - GCP",
+      "url": "http://gomining.com",
+      "description": "&lt;strong&gt;Description&lt;/strong&gt;&lt;br/&gt;&lt;p&gt;We are looking for a &lt;strong&gt;Senior DevOps / Platform Engineer&lt;/strong&gt; to develop and operate GoMining&#39;s cloud platform.&lt;/p&gt;&lt;p&gt;The primary focus of thi",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2026-11-16",
+      "validThrough": "2026-12-16",
+      "organization": "GoMining",
+      "source": "WeWorkRemotely · DevOps"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Staff DevOps Engineer",
+      "url": "http://bloomreach.com",
+      "description": "&lt;div class=&quot;job__description body&quot;&gt;&lt;div&gt;&lt;div class=&quot;p-rich_text_section&quot;&gt;Bloomreach is building the world’s premier &lt;strong data-stringify-type=&quot;bold&quot;&gt;agentic platform for personalizatio",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2026-11-16",
+      "validThrough": "2026-12-16",
+      "organization": "Bloomreach",
+      "source": "WeWorkRemotely · DevOps"
+    },
+    {
+      "type": "JobPosting",
       "name": "AI Infrastructure Specialist",
       "url": "https://weworkremotely.com",
       "description": "&lt;h1&gt;AI Infrastructure Specialist&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Job Title:&lt;/strong&gt; AI Infrastructure Specialist&lt;br&gt;&lt;strong&gt;Location:&lt;/strong&gt; United States (Remote)&lt;br&gt;&lt;strong&gt;Work Mode:&lt;/stro",
@@ -144,42 +192,6 @@
       "posted": "2026-11-13",
       "validThrough": "2026-12-13",
       "organization": "EdgeQ Technologies Private Limited",
-      "source": "WeWorkRemotely · DevOps"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Cloud Engineer",
-      "url": "https://knack.com",
-      "description": "&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Location: US Based (Full-Time, Remote) or International Contractor (Full-Time, Remote)&lt;/strong&gt;&lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;If US-Based:&lt;br&gt;This will be a remote position bas",
-      "location": "TELECOMMUTE",
-      "salary": "0/year",
-      "posted": "2026-11-10",
-      "validThrough": "2026-12-10",
-      "organization": "Knack",
-      "source": "WeWorkRemotely · DevOps"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Full-Stack Platform Engineer",
-      "url": "https://www.edgewaterit.com",
-      "description": "&lt;h2&gt;Overview&lt;/h2&gt; &lt;p&gt;Edgewater Federal Solutions is seeking an experienced &lt;strong&gt;Full-Stack Platform Engineer&lt;/strong&gt;.&amp;nbsp;The Full-Stack Platform Engineer provides senior technical leadership and hands",
-      "location": "United States",
-      "salary": "100000/year",
-      "posted": "2026-11-09",
-      "validThrough": "2026-12-09",
-      "organization": "Edgewater Federal Solutions, Inc.",
-      "source": "WeWorkRemotely · DevOps"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Senior Backend Cloud Engineer",
-      "url": "http://www.halcyon.ai",
-      "description": "&lt;div&gt;&lt;p&gt;&lt;strong&gt;What we do:&lt;/strong&gt;&lt;br&gt;Halcyon is the industry’s first dedicated, adaptive security platform that combines multiple proprietary advanced prevention engines along with AI models focused specific",
-      "location": "United States",
-      "salary": "100000/year",
-      "posted": "2026-11-09",
-      "validThrough": "2026-12-09",
-      "organization": "Halcyon",
       "source": "WeWorkRemotely · DevOps"
     }
   ]
