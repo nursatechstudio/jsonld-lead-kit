@@ -1,7 +1,19 @@
 {
-  "generatedAt": "2026-11-18T15:22:58.541Z",
-  "count": 16,
+  "generatedAt": "2026-11-19T15:28:59.833Z",
+  "count": 11,
   "leads": [
+    {
+      "type": "JobPosting",
+      "name": "Senior Fullstack Developer (React.js / Node.js)",
+      "url": "http://career.proxify.io",
+      "description": "&lt;h3 dir=&quot;ltr&quot;&gt;&lt;strong&gt;The Role:&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;We are looking for a Senior Fullstack Developer skilled in React.js and ",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2026-11-19",
+      "validThrough": "2026-12-19",
+      "organization": "Proxify AB",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
     {
       "type": "JobPosting",
       "name": "Head of Technology",
@@ -12,18 +24,6 @@
       "posted": "2026-11-16",
       "validThrough": "2026-12-16",
       "organization": "Sanctuary Computer",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Staff Software Engineer",
-      "url": "https://www.samsara.com/",
-      "description": "&lt;p&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Samsara (NYSE: IOT) sits at the center of hardware, software, AI, and the physical world. The platform processes 25+ trillion data points annually from IoT sensors, ca",
-      "location": "United States of America",
-      "salary": "100000/year",
-      "posted": "2026-08-17",
-      "validThrough": "2026-12-15",
-      "organization": "Samsara",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
@@ -64,14 +64,14 @@
     },
     {
       "type": "JobPosting",
-      "name": "Render Wrangler",
-      "url": "https://lbox.es",
-      "description": "&lt;h2&gt;Your mission&lt;/h2&gt; Knock, knock...Any Lightboxer in the room?&lt;br&gt;&lt;p&gt;If you are passionate about 3D animated films and want to create magic cinematographic, you can´t let this opportunity go!&lt;/p&gt;We are lookin",
-      "location": "Córdoba, Andalusia, Spain",
+      "name": "Senior Software Engineer, Query",
+      "url": "https://weworkremotely.com",
+      "description": "&lt;article&gt; &lt;h3&gt;About CircleCI Engineering&lt;/h3&gt; &lt;p&gt;CI/CD has been solved. Now it&#39;s being reinvented. AI agents don&#39;t just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. T",
+      "location": "TELECOMMUTE",
       "salary": "0/year",
-      "posted": "2026-11-18",
-      "validThrough": "2026-12-18",
-      "organization": "Lightbox Animation",
+      "posted": "2026-11-19",
+      "validThrough": "2026-12-19",
+      "organization": "CircleCI",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
@@ -84,18 +84,6 @@
       "posted": "2026-10-07",
       "validThrough": "2026-12-06",
       "organization": "Contra",
-      "source": "WeWorkRemotely · Design"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Sr. UX Designer, Security",
-      "url": "https://cribl.io/",
-      "description": "&lt;div&gt; &lt;p&gt;Join the company that&amp;rsquo;s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world&amp;rsquo;s biggest enterprises, including half of the Fortune",
-      "location": "United States of America",
-      "salary": "100000/year",
-      "posted": "2026-09-30",
-      "validThrough": "2026-11-29",
-      "organization": "Cribl",
       "source": "WeWorkRemotely · Design"
     },
     {
@@ -136,63 +124,15 @@
     },
     {
       "type": "JobPosting",
-      "name": "Senior DevOps Engineer",
-      "url": "http://epam.com",
-      "description": "&lt;div&gt;&lt;p&gt;We are seeking a &lt;strong&gt;Senior DevOps Engineer&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Elevate your career with EPAM, a global leader in digital transformation. Apply today to explore this exciting opportunity and be pa",
-      "location": "TELECOMMUTE",
+      "name": "Senior Sets&amp;Props Surface Artist",
+      "url": "https://lbox.es",
+      "description": "&lt;h2&gt;Your mission&lt;/h2&gt; Knock, knock...Any Lightboxer in the room?&lt;br&gt;&lt;p&gt;If you are passionate about 3D animated films and want to create magic cinematographic, you can´t let this opportunity go!&lt;/p&gt;We are lookin",
+      "location": "Córdoba, Andalusia, Spain",
       "salary": "0/year",
-      "posted": "2026-11-16",
-      "validThrough": "2026-12-16",
-      "organization": "EPAM Systems",
-      "source": "WeWorkRemotely · DevOps"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Microsoft Endpoint / Intune Consultant",
-      "url": "http://dl-remote.com",
-      "description": "&lt;section class=&quot;block-padding-x company-links pt-80 pb-48 print:pt-40 print:pb-24&quot;&gt; &lt;div class=&quot;prose font-company-body mx-auto max-w-750 overflow-hidden wrap-break-word [&amp;amp;_ol_li_li]:list-[lower-alpha]&quot; ",
-      "location": "TELECOMMUTE",
-      "salary": "0/year",
-      "posted": "2026-11-16",
-      "validThrough": "2026-12-16",
-      "organization": "DL Remote",
-      "source": "WeWorkRemotely · DevOps"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Senior DevOps / Platform Engineer - GCP",
-      "url": "http://gomining.com",
-      "description": "&lt;strong&gt;Description&lt;/strong&gt;&lt;br/&gt;&lt;p&gt;We are looking for a &lt;strong&gt;Senior DevOps / Platform Engineer&lt;/strong&gt; to develop and operate GoMining&#39;s cloud platform.&lt;/p&gt;&lt;p&gt;The primary focus of thi",
-      "location": "TELECOMMUTE",
-      "salary": "0/year",
-      "posted": "2026-11-16",
-      "validThrough": "2026-12-16",
-      "organization": "GoMining",
-      "source": "WeWorkRemotely · DevOps"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Staff DevOps Engineer",
-      "url": "http://bloomreach.com",
-      "description": "&lt;div class=&quot;job__description body&quot;&gt;&lt;div&gt;&lt;div class=&quot;p-rich_text_section&quot;&gt;Bloomreach is building the world’s premier &lt;strong data-stringify-type=&quot;bold&quot;&gt;agentic platform for personalizatio",
-      "location": "TELECOMMUTE",
-      "salary": "0/year",
-      "posted": "2026-11-16",
-      "validThrough": "2026-12-16",
-      "organization": "Bloomreach",
-      "source": "WeWorkRemotely · DevOps"
-    },
-    {
-      "type": "JobPosting",
-      "name": "AI Infrastructure Specialist",
-      "url": "https://weworkremotely.com",
-      "description": "&lt;h1&gt;AI Infrastructure Specialist&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Job Title:&lt;/strong&gt; AI Infrastructure Specialist&lt;br&gt;&lt;strong&gt;Location:&lt;/strong&gt; United States (Remote)&lt;br&gt;&lt;strong&gt;Work Mode:&lt;/stro",
-      "location": "United States",
-      "salary": "100000/year",
-      "posted": "2026-11-13",
-      "validThrough": "2026-12-13",
-      "organization": "EdgeQ Technologies Private Limited",
-      "source": "WeWorkRemotely · DevOps"
+      "posted": "2026-11-18",
+      "validThrough": "2026-12-18",
+      "organization": "Lightbox Animation",
+      "source": "WeWorkRemotely · Design"
     }
   ]
 }
