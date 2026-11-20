@@ -1,7 +1,19 @@
 {
-  "generatedAt": "2026-11-19T15:28:59.833Z",
-  "count": 11,
+  "generatedAt": "2026-11-20T15:06:10.584Z",
+  "count": 10,
   "leads": [
+    {
+      "type": "JobPosting",
+      "name": "Senior React Full-stack Developer",
+      "url": "https://lemon.io",
+      "description": "&lt;p&gt;&lt;a href=&quot;https://lemon.io/for-developers/?utm_source=weworkremotely&amp;amp;utm_medium=job_ad&amp;amp;utm_campaign=supply_en_react_node/python/ruby_nov_2026_job_ad&quot;&gt;Lemon.io&lt;/a&gt; helps companies in the US and E",
+      "location": "Cyprus",
+      "salary": "0/year",
+      "posted": "2026-11-19",
+      "validThrough": "2026-12-19",
+      "organization": "Lemon.io",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
     {
       "type": "JobPosting",
       "name": "Senior Fullstack Developer (React.js / Node.js)",
@@ -64,18 +76,6 @@
     },
     {
       "type": "JobPosting",
-      "name": "Senior Software Engineer, Query",
-      "url": "https://weworkremotely.com",
-      "description": "&lt;article&gt; &lt;h3&gt;About CircleCI Engineering&lt;/h3&gt; &lt;p&gt;CI/CD has been solved. Now it&#39;s being reinvented. AI agents don&#39;t just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. T",
-      "location": "TELECOMMUTE",
-      "salary": "0/year",
-      "posted": "2026-11-19",
-      "validThrough": "2026-12-19",
-      "organization": "CircleCI",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
       "name": "Senior 3D Designer",
       "url": "http://bit.ly/3kLhMdk",
       "description": "&lt;h2 data-level=&quot;2&quot;&gt;&lt;strong&gt;About Contra Labs&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Contra Labs sits at the intersection of human creativity and AI. We partner with leading AI labs and product companies to improve their to",
@@ -100,38 +100,26 @@
     },
     {
       "type": "JobPosting",
-      "name": "Principal Experience Designer - Visual Design &amp; Design Systems",
-      "url": "https://www.workiva.com/latam/",
-      "description": "&lt;p&gt;Workiva is looking for a Principal Experience Designer to shape the visual future of Unify, our enterprise design system. Unify powers the components, patterns, templates, accessibility standards, and shared experiences used across",
+      "name": "Graphic Designer",
+      "url": "https://catakor.com/",
+      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p class=&quot;text-body-sm multiline-text&quot; data-v-63470d6f=&quot;&quot;&gt;A leading supplement brand in its category in the U.S. market is expanding its creative team and looking for a talented Graphi",
       "location": "United States of America",
-      "salary": "100000/year",
-      "posted": "2026-10-20",
-      "validThrough": "2026-11-19",
-      "organization": "Workiva",
+      "salary": "/year",
+      "posted": "2026-10-21",
+      "validThrough": "2026-12-20",
+      "organization": "Cata-Kor",
       "source": "WeWorkRemotely · Design"
     },
     {
       "type": "JobPosting",
-      "name": "Graphic Design Intern (Remote)",
-      "url": "http://www.shirvano.co.id",
-      "description": "&lt;p&gt;&lt;strong&gt;Position Type&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Paid Internship&lt;/p&gt; &lt;ul&gt;&lt;li&gt;Duration: 6 months&lt;/li&gt;&lt;li&gt;Working Hours: 8 hours per day, Monday to Friday&lt;/li&gt;&lt;li&gt;Work Arrangemen",
-      "location": "Yogyakarta, Special Region of Yogyakarta, Indonesia",
+      "name": "Applied Scientist II - Advertiser Optimization",
+      "url": "https://weworkremotely.com",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;We&#39;re transforming the grocery industry&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;span class=&quot;im&quot;&gt;At Instacart, we invite the world to share love through food be",
+      "location": "TELECOMMUTE",
       "salary": "0/year",
-      "posted": "2026-11-18",
-      "validThrough": "2026-12-18",
-      "organization": "SHIRVANO",
-      "source": "WeWorkRemotely · Design"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Senior Sets&amp;Props Surface Artist",
-      "url": "https://lbox.es",
-      "description": "&lt;h2&gt;Your mission&lt;/h2&gt; Knock, knock...Any Lightboxer in the room?&lt;br&gt;&lt;p&gt;If you are passionate about 3D animated films and want to create magic cinematographic, you can´t let this opportunity go!&lt;/p&gt;We are lookin",
-      "location": "Córdoba, Andalusia, Spain",
-      "salary": "0/year",
-      "posted": "2026-11-18",
-      "validThrough": "2026-12-18",
-      "organization": "Lightbox Animation",
+      "posted": "2026-11-20",
+      "validThrough": "2026-12-20",
+      "organization": "Instacart",
       "source": "WeWorkRemotely · Design"
     }
   ]
