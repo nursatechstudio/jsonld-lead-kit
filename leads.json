@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T15:06:10.584Z",
+  "generatedAt": "2026-11-21T14:25:52.467Z",
   "count": 10,
   "leads": [
     {
@@ -7,23 +7,11 @@
       "name": "Senior React Full-stack Developer",
       "url": "https://lemon.io",
       "description": "&lt;p&gt;&lt;a href=&quot;https://lemon.io/for-developers/?utm_source=weworkremotely&amp;amp;utm_medium=job_ad&amp;amp;utm_campaign=supply_en_react_node/python/ruby_nov_2026_job_ad&quot;&gt;Lemon.io&lt;/a&gt; helps companies in the US and E",
-      "location": "Cyprus",
+      "location": "Spain",
       "salary": "0/year",
       "posted": "2026-11-19",
       "validThrough": "2026-12-19",
       "organization": "Lemon.io",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Senior Fullstack Developer (React.js / Node.js)",
-      "url": "http://career.proxify.io",
-      "description": "&lt;h3 dir=&quot;ltr&quot;&gt;&lt;strong&gt;The Role:&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;We are looking for a Senior Fullstack Developer skilled in React.js and ",
-      "location": "TELECOMMUTE",
-      "salary": "0/year",
-      "posted": "2026-11-19",
-      "validThrough": "2026-12-19",
-      "organization": "Proxify AB",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
@@ -76,6 +64,18 @@
     },
     {
       "type": "JobPosting",
+      "name": "Senior Commercial Account Manager",
+      "url": "https://weworkremotely.com",
+      "description": "&lt;p&gt;&lt;strong&gt;Job Title: Senior Commercial Account Manager&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Location: United States, Remote&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;This is a fully remote opportunity and can be worked from ",
+      "location": "United States of America",
+      "salary": "0/year",
+      "posted": "2026-11-21",
+      "validThrough": "2026-12-21",
+      "organization": "Salesloft",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
       "name": "Senior 3D Designer",
       "url": "http://bit.ly/3kLhMdk",
       "description": "&lt;h2 data-level=&quot;2&quot;&gt;&lt;strong&gt;About Contra Labs&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Contra Labs sits at the intersection of human creativity and AI. We partner with leading AI labs and product companies to improve their to",
@@ -112,15 +112,15 @@
     },
     {
       "type": "JobPosting",
-      "name": "Applied Scientist II - Advertiser Optimization",
-      "url": "https://weworkremotely.com",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;We&#39;re transforming the grocery industry&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;span class=&quot;im&quot;&gt;At Instacart, we invite the world to share love through food be",
+      "name": "Cloud Engineer",
+      "url": "https://knack.com",
+      "description": "&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Location: US Based (Full-Time, Remote) or International Contractor (Full-Time, Remote)&lt;/strong&gt;&lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;If US-Based:&lt;br&gt;This will be a remote position bas",
       "location": "TELECOMMUTE",
       "salary": "0/year",
-      "posted": "2026-11-20",
-      "validThrough": "2026-12-20",
-      "organization": "Instacart",
-      "source": "WeWorkRemotely · Design"
+      "posted": "2026-11-10",
+      "validThrough": "2026-12-10",
+      "organization": "Knack",
+      "source": "WeWorkRemotely · DevOps"
     }
   ]
 }
