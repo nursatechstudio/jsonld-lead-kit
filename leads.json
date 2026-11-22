@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-21T14:25:52.467Z",
-  "count": 10,
+  "generatedAt": "2026-11-22T14:20:18.329Z",
+  "count": 9,
   "leads": [
     {
       "type": "JobPosting",
       "name": "Senior React Full-stack Developer",
       "url": "https://lemon.io",
       "description": "&lt;p&gt;&lt;a href=&quot;https://lemon.io/for-developers/?utm_source=weworkremotely&amp;amp;utm_medium=job_ad&amp;amp;utm_campaign=supply_en_react_node/python/ruby_nov_2026_job_ad&quot;&gt;Lemon.io&lt;/a&gt; helps companies in the US and E",
-      "location": "Spain",
+      "location": "Denmark",
       "salary": "0/year",
       "posted": "2026-11-19",
       "validThrough": "2026-12-19",
@@ -64,14 +64,14 @@
     },
     {
       "type": "JobPosting",
-      "name": "Senior Commercial Account Manager",
+      "name": "Communications Generalist",
       "url": "https://weworkremotely.com",
-      "description": "&lt;p&gt;&lt;strong&gt;Job Title: Senior Commercial Account Manager&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Location: United States, Remote&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;This is a fully remote opportunity and can be worked from ",
-      "location": "United States of America",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;amp;utm_source=coinbase&quot;&gt;",
+      "location": "TELECOMMUTE",
       "salary": "0/year",
-      "posted": "2026-11-21",
-      "validThrough": "2026-12-21",
-      "organization": "Salesloft",
+      "posted": "2026-11-22",
+      "validThrough": "2026-12-22",
+      "organization": "Coinbase",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
@@ -96,18 +96,6 @@
       "posted": "2026-10-29",
       "validThrough": "2026-11-28",
       "organization": "Thatch",
-      "source": "WeWorkRemotely · Design"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Graphic Designer",
-      "url": "https://catakor.com/",
-      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p class=&quot;text-body-sm multiline-text&quot; data-v-63470d6f=&quot;&quot;&gt;A leading supplement brand in its category in the U.S. market is expanding its creative team and looking for a talented Graphi",
-      "location": "United States of America",
-      "salary": "/year",
-      "posted": "2026-10-21",
-      "validThrough": "2026-12-20",
-      "organization": "Cata-Kor",
       "source": "WeWorkRemotely · Design"
     },
     {
