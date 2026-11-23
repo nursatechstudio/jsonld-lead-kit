@@ -1,29 +1,17 @@
 {
-  "generatedAt": "2026-11-22T14:20:18.329Z",
-  "count": 9,
+  "generatedAt": "2026-11-23T17:42:59.071Z",
+  "count": 10,
   "leads": [
     {
       "type": "JobPosting",
       "name": "Senior React Full-stack Developer",
       "url": "https://lemon.io",
       "description": "&lt;p&gt;&lt;a href=&quot;https://lemon.io/for-developers/?utm_source=weworkremotely&amp;amp;utm_medium=job_ad&amp;amp;utm_campaign=supply_en_react_node/python/ruby_nov_2026_job_ad&quot;&gt;Lemon.io&lt;/a&gt; helps companies in the US and E",
-      "location": "Denmark",
+      "location": "Morocco",
       "salary": "0/year",
       "posted": "2026-11-19",
       "validThrough": "2026-12-19",
       "organization": "Lemon.io",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Head of Technology",
-      "url": "https://sanctuary.computer",
-      "description": "&lt;p&gt;We are hiring a &lt;strong&gt;Head of Technology&lt;/strong&gt; for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;h",
-      "location": "TELECOMMUTE",
-      "salary": "100000/year",
-      "posted": "2026-11-16",
-      "validThrough": "2026-12-16",
-      "organization": "Sanctuary Computer",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
@@ -64,14 +52,26 @@
     },
     {
       "type": "JobPosting",
-      "name": "Communications Generalist",
+      "name": "Senior Data Engineer",
+      "url": "https://www.oddball.io",
+      "description": "&lt;p&gt;Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make",
+      "location": "Remote",
+      "salary": "100000/year",
+      "posted": "2026-11-23",
+      "validThrough": "2026-12-23",
+      "organization": "Oddball",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Analytics Lead, Full Stack",
       "url": "https://weworkremotely.com",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;amp;utm_source=coinbase&quot;&gt;",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.&lt;/p&gt;",
       "location": "TELECOMMUTE",
       "salary": "0/year",
-      "posted": "2026-11-22",
-      "validThrough": "2026-12-22",
-      "organization": "Coinbase",
+      "posted": "2026-11-23",
+      "validThrough": "2026-12-23",
+      "organization": "Affirm",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
@@ -96,6 +96,18 @@
       "posted": "2026-10-29",
       "validThrough": "2026-11-28",
       "organization": "Thatch",
+      "source": "WeWorkRemotely · Design"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Sets&amp;Props Concept Artist Internship",
+      "url": "https://lbox.es",
+      "description": "&lt;h2&gt;Your mission&lt;/h2&gt; Knock, knock...Any Lightboxer in the room?&lt;br&gt;&lt;p&gt;If you are passionate about 3D animated films and want to create magic cinematographic, you can´t let this opportunity go!&lt;/p&gt;We are lookin",
+      "location": "Córdoba, Andalusia, Spain",
+      "salary": "0/year",
+      "posted": "2026-11-23",
+      "validThrough": "2026-12-23",
+      "organization": "Lightbox Animation",
       "source": "WeWorkRemotely · Design"
     },
     {
