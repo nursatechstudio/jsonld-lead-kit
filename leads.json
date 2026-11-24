@@ -1,17 +1,29 @@
 {
-  "generatedAt": "2026-11-23T17:42:59.071Z",
-  "count": 10,
+  "generatedAt": "2026-11-24T17:15:47.787Z",
+  "count": 11,
   "leads": [
     {
       "type": "JobPosting",
       "name": "Senior React Full-stack Developer",
       "url": "https://lemon.io",
       "description": "&lt;p&gt;&lt;a href=&quot;https://lemon.io/for-developers/?utm_source=weworkremotely&amp;amp;utm_medium=job_ad&amp;amp;utm_campaign=supply_en_react_node/python/ruby_nov_2026_job_ad&quot;&gt;Lemon.io&lt;/a&gt; helps companies in the US and E",
-      "location": "Morocco",
+      "location": "Singapore",
       "salary": "0/year",
       "posted": "2026-11-19",
       "validThrough": "2026-12-19",
       "organization": "Lemon.io",
+      "source": "WeWorkRemotely · Full-Stack"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Senior Fullstack Developer (React.js / Node.js)",
+      "url": "http://career.proxify.io",
+      "description": "&lt;h3 dir=&quot;ltr&quot;&gt;&lt;strong&gt;The Role:&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;We are looking for a Senior Fullstack Developer skilled in React.js and ",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2026-11-19",
+      "validThrough": "2026-12-24",
+      "organization": "Proxify AB",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
@@ -52,26 +64,14 @@
     },
     {
       "type": "JobPosting",
-      "name": "Senior Data Engineer",
-      "url": "https://www.oddball.io",
-      "description": "&lt;p&gt;Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make",
-      "location": "Remote",
-      "salary": "100000/year",
-      "posted": "2026-11-23",
-      "validThrough": "2026-12-23",
-      "organization": "Oddball",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Analytics Lead, Full Stack",
-      "url": "https://weworkremotely.com",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.&lt;/p&gt;",
-      "location": "TELECOMMUTE",
-      "salary": "0/year",
-      "posted": "2026-11-23",
-      "validThrough": "2026-12-23",
-      "organization": "Affirm",
+      "name": "Plumeria - Voice Message Collection Project - India",
+      "url": "https://community.transperfect.com",
+      "description": "&lt;p&gt;DataForce by TransPerfect is looking for people living in India to share existing WhatsApp voice messages for a short, remote project. If you use voice messages to chat in Hindi, Tamil, Telugu, Kannada, Gujarati, Marathi, Bengali, ",
+      "location": "India",
+      "salary": "25000/year",
+      "posted": "2026-11-24",
+      "validThrough": "2026-12-24",
+      "organization": "TransPerfect",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
@@ -88,18 +88,6 @@
     },
     {
       "type": "JobPosting",
-      "name": "Brand Designer ",
-      "url": "https://thatch.com/",
-      "description": "&lt;h3 class=&quot;mb-4 text-xl font-extrabold tracking-tight text-gray-900 sm:text-3xl md:text-2xl&quot;&gt;About the role&lt;/h3&gt; &lt;p&gt;For most people, health insurance happens to them: a plan chosen by someone else, with little ro",
-      "location": "United States of America",
-      "salary": "100000/year",
-      "posted": "2026-10-29",
-      "validThrough": "2026-11-28",
-      "organization": "Thatch",
-      "source": "WeWorkRemotely · Design"
-    },
-    {
-      "type": "JobPosting",
       "name": "Sets&amp;Props Concept Artist Internship",
       "url": "https://lbox.es",
       "description": "&lt;h2&gt;Your mission&lt;/h2&gt; Knock, knock...Any Lightboxer in the room?&lt;br&gt;&lt;p&gt;If you are passionate about 3D animated films and want to create magic cinematographic, you can´t let this opportunity go!&lt;/p&gt;We are lookin",
@@ -112,6 +100,18 @@
     },
     {
       "type": "JobPosting",
+      "name": "Senior OR Staff Product Designer",
+      "url": "https://weworkremotely.com",
+      "description": "&lt;p&gt;Our team is committed to enhancing physician and patient quality of life through Elation, a SaaS cloud-based clinical platform. We’ve built a product that users love, and we plan to keep it that way by continuing to empathize with ",
+      "location": "TELECOMMUTE",
+      "salary": "0/year",
+      "posted": "2026-11-23",
+      "validThrough": "2026-12-23",
+      "organization": "Elation Health",
+      "source": "WeWorkRemotely · Design"
+    },
+    {
+      "type": "JobPosting",
       "name": "Cloud Engineer",
       "url": "https://knack.com",
       "description": "&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Location: US Based (Full-Time, Remote) or International Contractor (Full-Time, Remote)&lt;/strong&gt;&lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;If US-Based:&lt;br&gt;This will be a remote position bas",
@@ -120,6 +120,18 @@
       "posted": "2026-11-10",
       "validThrough": "2026-12-10",
       "organization": "Knack",
+      "source": "WeWorkRemotely · DevOps"
+    },
+    {
+      "type": "JobPosting",
+      "name": "Senior Security Engineer, Offensive Security",
+      "url": "https://jobs.dropbox.com",
+      "description": "&lt;h2&gt;Role Description&lt;/h2&gt; &lt;p&gt;&lt;span&gt;As a &lt;/span&gt;&lt;span&gt;&lt;span&gt;Senior&lt;/span&gt;&lt;/span&gt;&lt;span&gt; Offensive Security Engineer&lt;/span&gt;&lt;span&gt; within Dropbox Security, you will investi",
+      "location": "Remote - Mexico",
+      "salary": "0/year",
+      "posted": "2026-11-24",
+      "validThrough": "2026-12-24",
+      "organization": "Dropbox",
       "source": "WeWorkRemotely · DevOps"
     }
   ]
