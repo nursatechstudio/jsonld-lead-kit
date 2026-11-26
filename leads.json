@@ -1,31 +1,7 @@
 {
-  "generatedAt": "2026-11-25T16:58:33.487Z",
-  "count": 10,
+  "generatedAt": "2026-11-26T16:37:45.403Z",
+  "count": 7,
   "leads": [
-    {
-      "type": "JobPosting",
-      "name": "Senior React Full-stack Developer",
-      "url": "https://lemon.io",
-      "description": "&lt;p&gt;&lt;a href=&quot;https://lemon.io/for-developers/?utm_source=weworkremotely&amp;amp;utm_medium=job_ad&amp;amp;utm_campaign=supply_en_react_node/python/ruby_nov_2026_job_ad&quot;&gt;Lemon.io&lt;/a&gt; helps companies in the US and E",
-      "location": "Costa Rica",
-      "salary": "0/year",
-      "posted": "2026-11-19",
-      "validThrough": "2026-12-19",
-      "organization": "Lemon.io",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Senior Fullstack Developer (React.js / Node.js)",
-      "url": "http://career.proxify.io",
-      "description": "&lt;h3 dir=&quot;ltr&quot;&gt;&lt;strong&gt;The Role:&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;We are looking for a Senior Fullstack Developer skilled in React.js and ",
-      "location": "TELECOMMUTE",
-      "salary": "0/year",
-      "posted": "2026-11-19",
-      "validThrough": "2026-12-24",
-      "organization": "Proxify AB",
-      "source": "WeWorkRemotely · Full-Stack"
-    },
     {
       "type": "JobPosting",
       "name": "Senior Independent AI Engineer / Architect",
@@ -64,14 +40,14 @@
     },
     {
       "type": "JobPosting",
-      "name": "Audio Recording - Malay Speaker (Short-Term Project)",
-      "url": "https://jobs.workable.com/company/mgHPcGJXLWUyktKeLj2pRM/jobs-at-chemin",
-      "description": "&lt;p&gt;Record your voice from your phone and get paid!&lt;/p&gt;&lt;p&gt;Kaya by Chemin Sdn Bhd is looking for native Malay speakers based in Malaysia to join an upcoming Malay Audio Collection Project for AI data collection.&lt;/p&gt;&lt",
-      "location": "Kedah, Malaysia",
-      "salary": "/year",
-      "posted": "2026-11-25",
-      "validThrough": "2026-12-25",
-      "organization": "Chemin",
+      "name": "Project Manager - R01573664",
+      "url": "https://weworkremotely.com",
+      "description": "&lt;div&gt;&lt;u&gt;&lt;strong&gt;Project Manager&lt;/strong&gt;&lt;/u&gt;&lt;/div&gt;&lt;h4&gt;Primary Skills&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Revenue Forecasting, SOW creation and scope tracking, P&amp;amp;L Management, Program Management, P",
+      "location": "San Ramon, California, United States",
+      "salary": "0/year",
+      "posted": "2026-11-26",
+      "validThrough": "2026-12-26",
+      "organization": "Brillio",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
@@ -88,30 +64,6 @@
     },
     {
       "type": "JobPosting",
-      "name": "Senior Director, Product Management, Agentic Platform",
-      "url": "https://weworkremotely.com",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other,",
-      "location": "TELECOMMUTE",
-      "salary": "0/year",
-      "posted": "2026-11-24",
-      "validThrough": "2026-12-24",
-      "organization": "ZoomInfo Technologies LLC",
-      "source": "WeWorkRemotely · Design"
-    },
-    {
-      "type": "JobPosting",
-      "name": "Sets&amp;Props Concept Artist Internship",
-      "url": "https://lbox.es",
-      "description": "&lt;h2&gt;Your mission&lt;/h2&gt; Knock, knock...Any Lightboxer in the room?&lt;br&gt;&lt;p&gt;If you are passionate about 3D animated films and want to create magic cinematographic, you can´t let this opportunity go!&lt;/p&gt;We are lookin",
-      "location": "Córdoba, Andalusia, Spain",
-      "salary": "0/year",
-      "posted": "2026-11-23",
-      "validThrough": "2026-12-23",
-      "organization": "Lightbox Animation",
-      "source": "WeWorkRemotely · Design"
-    },
-    {
-      "type": "JobPosting",
       "name": "Cloud Engineer",
       "url": "https://knack.com",
       "description": "&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Location: US Based (Full-Time, Remote) or International Contractor (Full-Time, Remote)&lt;/strong&gt;&lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;If US-Based:&lt;br&gt;This will be a remote position bas",
@@ -120,6 +72,18 @@
       "posted": "2026-11-10",
       "validThrough": "2026-12-10",
       "organization": "Knack",
+      "source": "WeWorkRemotely · DevOps"
+    },
+    {
+      "type": "JobPosting",
+      "name": "MSP Mac Help Desk Guru (work from home)",
+      "url": "https://ignitionit.com",
+      "description": "&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Fully Remote &amp;middot; Work from home &amp;middot; Full-time (Eastern or Pacific time zones) &amp;middot; Apple-first&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;&lt;strong&g",
+      "location": "TELECOMMUTE",
+      "salary": "50000/year",
+      "posted": "2026-10-27",
+      "validThrough": "2026-12-26",
+      "organization": "Ignition, Inc.",
       "source": "WeWorkRemotely · DevOps"
     }
   ]
