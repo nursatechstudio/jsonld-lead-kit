@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-26T16:37:45.403Z",
-  "count": 7,
+  "generatedAt": "2026-11-27T16:23:53.632Z",
+  "count": 6,
   "leads": [
     {
       "type": "JobPosting",
@@ -40,14 +40,14 @@
     },
     {
       "type": "JobPosting",
-      "name": "Project Manager - R01573664",
+      "name": "VP of Engineering",
       "url": "https://weworkremotely.com",
-      "description": "&lt;div&gt;&lt;u&gt;&lt;strong&gt;Project Manager&lt;/strong&gt;&lt;/u&gt;&lt;/div&gt;&lt;h4&gt;Primary Skills&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Revenue Forecasting, SOW creation and scope tracking, P&amp;amp;L Management, Program Management, P",
-      "location": "San Ramon, California, United States",
-      "salary": "0/year",
-      "posted": "2026-11-26",
-      "validThrough": "2026-12-26",
-      "organization": "Brillio",
+      "description": "&lt;h1&gt;Vice President of Engineering&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Shape the future of trust in the age of AI&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;At Oscilar, we&#39;re building the most advanced AI Risk Decisioning™ Pl",
+      "location": "Remote",
+      "salary": "100000/year",
+      "posted": "2026-11-27",
+      "validThrough": "2026-12-27",
+      "organization": "Oscilar",
       "source": "WeWorkRemotely · Full-Stack"
     },
     {
@@ -72,18 +72,6 @@
       "posted": "2026-11-10",
       "validThrough": "2026-12-10",
       "organization": "Knack",
-      "source": "WeWorkRemotely · DevOps"
-    },
-    {
-      "type": "JobPosting",
-      "name": "MSP Mac Help Desk Guru (work from home)",
-      "url": "https://ignitionit.com",
-      "description": "&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Fully Remote &amp;middot; Work from home &amp;middot; Full-time (Eastern or Pacific time zones) &amp;middot; Apple-first&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p dir=&quot;ltr&quot;&gt;&lt;strong&g",
-      "location": "TELECOMMUTE",
-      "salary": "50000/year",
-      "posted": "2026-10-27",
-      "validThrough": "2026-12-26",
-      "organization": "Ignition, Inc.",
       "source": "WeWorkRemotely · DevOps"
     }
   ]
